@@ -1,0 +1,25 @@
+sector_code,sector_label,year,mean_value,n_countries
+C,Manufacturing,2018,17.7686,22
+C,Manufacturing,2020,17.4897,31
+C,Manufacturing,2022,17.1658,33
+G,Wholesale & retail,2018,3.5887,23
+G,Wholesale & retail,2020,3.7213,31
+G,Wholesale & retail,2022,3.5852,33
+J,Information & communication,2018,1.4936,22
+J,Information & communication,2020,2.5248,31
+J,Information & communication,2022,1.9571,31
+F,Construction,2018,3.1645,22
+F,Construction,2020,2.9113,32
+F,Construction,2022,2.9494,32
+N,Administrative services,2018,2.3895,21
+N,Administrative services,2020,2.8929,31
+N,Administrative services,2022,2.7767,30
+H,Transport & storage,2018,2.2709,23
+H,Transport & storage,2020,2.4666,32
+H,Transport & storage,2022,2.2076,29
+I,Accommodation & food,2018,1.3455,22
+I,Accommodation & food,2020,1.443,30
+I,Accommodation & food,2022,2.2424,29
+ICT,ICT sector,2018,3.3826,23
+ICT,ICT sector,2020,3.6916,32
+ICT,ICT sector,2022,3.2983,30

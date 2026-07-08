@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beyond the Lab: Enterprise Robot Adoption and Research Collaboration in Europe</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header id="app-header">
+    <div class="header-content">
+      <div class="header-left">
+        <h1>Beyond the Lab <span class="subtitle">Enterprise Robot Adoption and Research Collaboration in Europe</span></h1>
+      </div>
+      <div id="progress-dots" class="progress-dots" role="navigation" aria-label="Story progress"></div>
+      <div class="header-right">
+        <button id="btn-help" class="header-btn" aria-label="Help">Help</button>
+        <button id="btn-source" class="header-btn" aria-label="Data sources">Sources</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== HELP MODAL ===== -->
+  <div id="modal-help" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close">&times;</button>
+      <h2>How to use this visualisation</h2>
+      <p>This is my look at how much European businesses actually use robots between 2018 and 2022, and whether that lines up with how strongly each country works together on robotics research.</p>
+      <p><strong>Guided story:</strong> Just scroll down. The sections on the left walk you through the story, and the panel on the right swaps to the matching chart or map as you go. The Key takeaways section also has a year slider that animates the hub-strength versus adoption bars across 2018, 2020 and 2022.</p>
+      <p><strong>Interact:</strong> Hover over anything (a country, bar, dot or link) to see the numbers behind it, and click a country on the map or a network node to pick it out.</p>
+      <p><strong>Minimap (small corner map):</strong> A few steps show a small map in the corner of the chart. Click a country on it and the chart redraws for just that country. Click a different country to switch to it, and click the same country again to go back to the all-EU view (the average across every country). To make the minimap bigger, hover over it. To shrink it again, click the white &times; in its top-right corner, or just move your pointer off the map and back onto the text.</p>
+      <p><strong>Explore mode:</strong> The last section lets you dig around on your own. You can drag the year slider, switch the map metric (adoption, change, industrial robots, service robots, hub strength, or network only), drag the &ldquo;minimum joint articles&rdquo; slider to hide weaker collaboration links, choose which countries appear in the network, hide or show the network, and zoom or drag the map. &ldquo;Reset all&rdquo; puts everything back.</p>
+      <p><strong>Who it&rsquo;s for:</strong> European technology policy analysts, innovation researchers and business readers who are curious about robotics adoption patterns.</p>
+    </div>
+  </div>
+
+  <!-- ===== SOURCE MODAL ===== -->
+  <div id="modal-source" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close">&times;</button>
+      <h2>Data sources and methodology</h2>
+      <p><strong>Eurostat:</strong> Enterprise robot adoption data from the Eurostat ICT usage in enterprises survey (isoc_eb_p3d and isoc_eb_p3dn2). Values represent the percentage of enterprises (with 10 or more employees) using industrial or service robots. Available for 2018, 2020, and 2022.</p>
+      <p><strong>ETO (Emerging Technology Observatory):</strong> Cross-border robotics research collaboration data measuring joint research articles between country pairs. Filtered to complete observations for 2018 to 2022.</p>
+      <p><strong>Map boundaries:</strong> Natural Earth 110m administrative boundaries via world-atlas (public domain).</p>
+      <p><strong>Terms:</strong> &ldquo;Hub strength&rdquo; is a country&rsquo;s weighted number of joint research articles with the other subset countries (its weighted degree in the collaboration network). &ldquo;pp&rdquo; means percentage points, the plain arithmetic difference between two percentages.</p>
+      <p><strong>Note:</strong> France 2022 carries Eurostat flag b (break in series) and is retained with caution. The Q3 overlap subset includes countries that appear in both the Eurostat and ETO datasets and that have at least one collaboration link to another subset country (12 countries).</p>
+    </div>
+  </div>
+
+  <!-- ===== LOADING / ERROR ===== -->
+  <div id="app-loading" class="loading-screen">
+    <p>Loading visualisation data...</p>
+  </div>
+  <div id="app-error" class="error-screen hidden">
+    <h2>This page needs a local web server</h2>
+    <p>The data files could not be loaded. Browsers block a page opened directly from disk (a <code>file://</code> address) from reading the CSV and JSON files this visualisation needs. Serving the folder over <code>http://</code> fixes this.</p>
+    <p><strong>To run it</strong> open a terminal in this folder and start a simple server, then open the address it prints:</p>
+    <ol>
+      <li>Python: run <code>python3 -m http.server 8000</code> then visit <code>http://localhost:8000</code></li>
+      <li>Or in VS Code: install the <strong>Live Server</strong> extension, then right-click <code>index.html</code> and choose <strong>Open with Live Server</strong></li>
+    </ol>
+    <p class="error-note">See <code>README.txt</code> for the same steps.</p>
+  </div>
+
+  <!-- ===== MAIN APP ===== -->
+  <main id="app-main" class="hidden">
+
+    <!-- STORY MODE: scrollytelling -->
+    <div id="story-container">
+      <div id="story-narrative">
+
+        <!-- Section 0: Hook -->
+        <div class="story-step" data-step="0">
+          <div class="step-content">
+            <h2>The state of enterprise robotics in Europe</h2>
+            <p>Between 2018 and 2022, Eurostat surveyed enterprises across Europe on their use of industrial and service robots. Meanwhile, the Emerging Technology Observatory tracked cross-border robotics research collaboration.</p>
+            <p>This visualisation brings these two perspectives together to explore three questions:</p>
+            <ol>
+              <li>How has enterprise robot use changed over time across countries?</li>
+              <li>What patterns of enterprise robot use can be observed across enterprise sizes and sectors over time?</li>
+              <li>Which European countries act as hubs in cross-border robotics research, and how does hub status relate to their adoption of enterprise robots?</li>
+            </ol>
+            <div class="big-numbers" id="big-numbers"></div>
+            <p class="safe-text">This visualisation focuses on observed patterns in the available data rather than causal explanation.</p>
+          </div>
+        </div>
+
+        <!-- Section 1: Q1 Change -->
+        <div class="story-step" data-step="1">
+          <div class="step-content">
+            <h2>Adoption changed unevenly across countries</h2>
+            <p>The chart shows how enterprise robot adoption (% of enterprises with 10+ employees using any robot) changed between 2018 and 2022 for countries with data in both years.</p>
+            <p>Some countries saw notable increases while others declined or remained stable. The map colours countries by the same change values.</p>
+            <p class="safe-text">The paired country sample shows mixed movement between 2018 and 2022 rather than a uniform Europe-wide increase. This does not explain why countries changed, but it identifies where the changes were concentrated.</p>
+          </div>
+        </div>
+
+        <!-- Section 2: Q1 ext - Robot types -->
+        <div class="story-step" data-step="2">
+          <div class="step-content">
+            <h2>Industrial robots lead, but service robots are present</h2>
+            <p>Breaking adoption into industrial and service robots reveals that industrial robots dominate in most countries. The connecting line shows the within-country gap.</p>
+            <p class="safe-text">In most valid country observations, industrial robot adoption is higher than service robot adoption. The chart compares composition within countries, but it does not show whether the composition changed over time.</p>
+          </div>
+        </div>
+
+        <!-- Section 3: Q2a Size -->
+        <div class="story-step" data-step="3">
+          <div class="step-content">
+            <h2>Larger enterprises adopt robots more</h2>
+            <p>Enterprise size is a strong structural factor. Large enterprises (250+ employees) consistently show higher robot adoption rates than small (10-49) and medium (50-249) enterprises across Europe.</p>
+            <p>The chart shows adoption by enterprise size class in 2022. Select a country to compare against the EU27 average.</p>
+            <p class="safe-text">Larger enterprises show higher robot adoption in the Eurostat data. This supports a structural reading of adoption, but it should not be treated as a pure size effect because sector composition also differs across firm sizes.</p>
+          </div>
+        </div>
+
+        <!-- Section 4: Q2b Sector -->
+        <div class="story-step" data-step="4">
+          <div class="step-content">
+            <h2>Manufacturing leads sector adoption</h2>
+            <p>The heatmap shows the cross-country mean robot adoption for each economic sector in 2018, 2020 and 2022. Manufacturing dominates every year (around 17 to 18%), far above the service-oriented sectors, which mostly sit between 1 and 4%. Select a country on the small map to switch the heatmap to that country&rsquo;s own sector values.</p>
+            <p class="safe-text">Manufacturing-heavy sectors show stronger robot adoption patterns than many service sectors. The visualisation frames this as a pattern, not a causal decomposition.</p>
+          </div>
+        </div>
+
+        <!-- Section 5: Q3 Network -->
+        <div class="story-step" data-step="5">
+          <div class="step-content">
+            <h2>Research collaboration does not strongly predict adoption</h2>
+            <p>The map now shows robotics research collaboration links between the <span id="overlap-count">12</span>-country overlap subset (countries present in both Eurostat and ETO data). Node size reflects hub strength (collaboration articles), while the map shades each country by its robot adoption level.</p>
+            <p>Germany, France, and Italy are central research hubs, but their enterprise adoption rates vary. Click a country to see its collaboration partners.</p>
+            <p class="safe-text">The overlap subset does not show strong evidence of a positive association between research hub strength and enterprise robot adoption. This should be read as absence of strong evidence in the available data, not evidence that research collaboration has no influence.</p>
+          </div>
+        </div>
+
+        <!-- Section 6: Takeaway -->
+        <div class="story-step" data-step="6">
+          <div class="step-content">
+            <h2>Key takeaways</h2>
+            <div class="takeaway-cards" id="takeaway-cards"></div>
+            <p>The chart compares each country&rsquo;s research hub strength (left) with its enterprise robot adoption (right), sorted by hub strength. Use the year slider to watch the ranking shift across 2018, 2020 and 2022. Countries central in robotics research collaboration are not automatically the ones with the highest enterprise robot adoption.</p>
+            <p class="safe-text">This supports a mismatch narrative, but does not establish causal separation between research and adoption.</p>
+            <p id="spearman-note" class="stat-note"></p>
+          </div>
+        </div>
+
+        <!-- Section 7: Explore -->
+        <div class="story-step" data-step="7">
+          <div class="step-content">
+            <h2>Explore the data</h2>
+            <p>Use the controls below to investigate country-level patterns interactively. Click countries on the map or network nodes to see details. Drag the year slider, switch the map metric, and raise the minimum joint articles to hide weaker collaboration links.</p>
+            <div id="explore-controls">
+              <div class="control-group">
+                <label for="sl-year">Year: <span id="year-val">2022</span></label>
+                <input type="range" id="sl-year" min="2018" max="2022" value="2022" step="2">
+                <div class="slider-ticks"><span>2018</span><span>2020</span><span>2022</span></div>
+              </div>
+              <div class="control-group">
+                <label for="sel-metric">Map metric</label>
+                <select id="sel-metric">
+                  <option value="adoption" selected>Adoption level</option>
+                  <option value="change">Change 2018-2022</option>
+                  <option value="industrial">Industrial robots</option>
+                  <option value="service">Service robots</option>
+                  <option value="hub">Hub strength</option>
+                  <option value="neutral">Network only</option>
+                </select>
+              </div>
+              <div class="control-group">
+                <label for="sl-threshold">Minimum joint articles: <span id="threshold-val">0</span></label>
+                <input type="range" id="sl-threshold" min="0" max="120" value="0" step="5">
+              </div>
+              <div class="control-group">
+                <label>Filter network countries</label>
+                <div id="country-filter" class="multiselect">
+                  <button type="button" id="country-filter-btn" class="multiselect-btn" aria-haspopup="true" aria-expanded="false">All countries</button>
+                  <div id="country-filter-menu" class="multiselect-menu hidden">
+                    <label class="ms-item ms-all"><input type="checkbox" id="ms-select-all" checked><span>Select all</span></label>
+                    <div id="ms-list"></div>
+                  </div>
+                </div>
+              </div>
+              <button type="button" id="btn-network-toggle" class="btn-toggle">Hide network</button>
+              <button type="button" id="btn-reset" class="btn-reset">Reset all</button>
+            </div>
+            <!-- Detail panel moves here in explore mode -->
+            <div id="explore-detail-slot"></div>
+          </div>
+        </div>
+
+      </div><!-- /story-narrative -->
+
+      <!-- STICKY VISUAL PANEL -->
+      <div id="vis-panel">
+        <div id="vis-container">
+          <div id="map-container">
+            <svg id="map-svg"></svg>
+            <div id="map-zoom-controls" class="hidden">
+              <button type="button" id="map-zoom-in" aria-label="Zoom in">+</button>
+              <button type="button" id="map-zoom-out" aria-label="Zoom out">&minus;</button>
+            </div>
+            <div id="map-x-close" title="Close map" role="button" aria-label="Close map">&times;</div>
+          </div>
+          <div id="chart-container">
+            <svg id="chart-svg"></svg>
+            <div id="hub-year-control">
+              <input type="range" id="sl-hub-year" min="2018" max="2022" value="2022" step="2">
+              <div class="slider-ticks"><span>2018</span><span>2020</span><span>2022</span></div>
+            </div>
+          </div>
+          <div id="network-container" class="hidden">
+            <svg id="network-svg"></svg>
+          </div>
+        </div>
+        <!-- Country detail panel -->
+        <div id="detail-panel" class="detail-panel">
+          <h3 id="detail-country">Select a country on the map or network to view details.</h3>
+          <div class="detail-grid" id="detail-grid"></div>
+        </div>
+      </div><!-- /vis-panel -->
+
+    </div><!-- /story-container -->
+
+  </main>
+
+  <!-- ===== TOOLTIP ===== -->
+  <div id="tooltip" class="tooltip hidden"></div>
+
+  <!-- ===== FOOTER ===== -->
+  <footer id="app-footer">
+    <p>Data: <a href="https://ec.europa.eu/eurostat" target="_blank" rel="noopener">Eurostat</a> (isoc_eb_p3d, isoc_eb_p3dn2) | <a href="https://eto.tech" target="_blank" rel="noopener">Emerging Technology Observatory</a> | Map: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain)</p>
+    <p>Visualisation by Thanh Nghi Le. Built with D3.js (v7).</p>
+  </footer>
+
+  <!-- ===== SCRIPTS ===== -->
+  <script src="lib/d3.v7.min.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/network.js"></script>
+  <script src="js/scrolly.js"></script>
+  <script src="js/explore.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

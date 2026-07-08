@@ -1,0 +1,676 @@
+geo,country_name,sector_code,sector_label,year,value
+AL,Albania,C,Manufacturing,2022,8.54
+AL,Albania,G,Wholesale & retail,2022,2.78
+AL,Albania,J,Information & communication,2022,4.21
+AL,Albania,F,Construction,2022,9.22
+AL,Albania,N,Administrative services,2022,6.68
+AT,Austria,C,Manufacturing,2018,20.9
+AT,Austria,C,Manufacturing,2020,23.76
+AT,Austria,C,Manufacturing,2022,17.6
+AT,Austria,G,Wholesale & retail,2018,4.09
+AT,Austria,G,Wholesale & retail,2020,4.18
+AT,Austria,G,Wholesale & retail,2022,3.65
+AT,Austria,J,Information & communication,2018,2.97
+AT,Austria,J,Information & communication,2020,1.57
+AT,Austria,J,Information & communication,2022,6.35
+AT,Austria,F,Construction,2018,1.48
+AT,Austria,F,Construction,2020,0.24
+AT,Austria,F,Construction,2022,0.76
+AT,Austria,N,Administrative services,2018,1.29
+AT,Austria,N,Administrative services,2020,0.35
+AT,Austria,N,Administrative services,2022,1.84
+AT,Austria,H,Transport & storage,2018,0.32
+AT,Austria,H,Transport & storage,2020,1.35
+AT,Austria,H,Transport & storage,2022,2.66
+AT,Austria,I,Accommodation & food,2018,0.0
+AT,Austria,I,Accommodation & food,2020,0.56
+AT,Austria,I,Accommodation & food,2022,1.65
+AT,Austria,ICT,ICT sector,2018,4.68
+AT,Austria,ICT,ICT sector,2020,3.72
+AT,Austria,ICT,ICT sector,2022,5.38
+BA,Bosnia and Herzegovina,C,Manufacturing,2020,10.65
+BA,Bosnia and Herzegovina,C,Manufacturing,2022,14.04
+BA,Bosnia and Herzegovina,G,Wholesale & retail,2020,0.84
+BA,Bosnia and Herzegovina,J,Information & communication,2022,0.0
+BA,Bosnia and Herzegovina,F,Construction,2020,1.32
+BA,Bosnia and Herzegovina,N,Administrative services,2022,0.0
+BA,Bosnia and Herzegovina,H,Transport & storage,2020,0.0
+BA,Bosnia and Herzegovina,H,Transport & storage,2022,0.84
+BE,Belgium,C,Manufacturing,2022,28.35
+BE,Belgium,G,Wholesale & retail,2020,7.23
+BE,Belgium,G,Wholesale & retail,2022,7.84
+BE,Belgium,J,Information & communication,2020,5.62
+BE,Belgium,J,Information & communication,2022,1.91
+BE,Belgium,F,Construction,2020,7.87
+BE,Belgium,F,Construction,2022,7.42
+BE,Belgium,N,Administrative services,2020,1.38
+BE,Belgium,N,Administrative services,2022,3.83
+BE,Belgium,H,Transport & storage,2020,3.17
+BE,Belgium,H,Transport & storage,2022,8.07
+BE,Belgium,I,Accommodation & food,2020,0.0
+BE,Belgium,I,Accommodation & food,2022,3.5
+BE,Belgium,ICT,ICT sector,2020,5.91
+BE,Belgium,ICT,ICT sector,2022,2.19
+BG,Bulgaria,C,Manufacturing,2018,9.93
+BG,Bulgaria,C,Manufacturing,2020,14.07
+BG,Bulgaria,C,Manufacturing,2022,9.64
+BG,Bulgaria,G,Wholesale & retail,2018,2.14
+BG,Bulgaria,G,Wholesale & retail,2020,2.31
+BG,Bulgaria,G,Wholesale & retail,2022,1.67
+BG,Bulgaria,F,Construction,2018,3.28
+BG,Bulgaria,F,Construction,2020,3.6
+BG,Bulgaria,F,Construction,2022,0.79
+BG,Bulgaria,N,Administrative services,2020,4.11
+BG,Bulgaria,H,Transport & storage,2018,2.79
+BG,Bulgaria,H,Transport & storage,2020,3.39
+BG,Bulgaria,I,Accommodation & food,2018,1.9
+BG,Bulgaria,I,Accommodation & food,2020,1.03
+BG,Bulgaria,ICT,ICT sector,2018,5.15
+BG,Bulgaria,ICT,ICT sector,2020,1.89
+BG,Bulgaria,ICT,ICT sector,2022,2.49
+CY,Cyprus,C,Manufacturing,2018,6.71
+CY,Cyprus,C,Manufacturing,2020,10.58
+CY,Cyprus,C,Manufacturing,2022,8.96
+CY,Cyprus,G,Wholesale & retail,2018,0.32
+CY,Cyprus,G,Wholesale & retail,2020,2.26
+CY,Cyprus,G,Wholesale & retail,2022,0.19
+CY,Cyprus,J,Information & communication,2018,0.0
+CY,Cyprus,J,Information & communication,2020,2.06
+CY,Cyprus,J,Information & communication,2022,0.0
+CY,Cyprus,F,Construction,2018,0.0
+CY,Cyprus,F,Construction,2020,1.04
+CY,Cyprus,F,Construction,2022,0.28
+CY,Cyprus,N,Administrative services,2018,0.0
+CY,Cyprus,N,Administrative services,2020,1.93
+CY,Cyprus,N,Administrative services,2022,2.26
+CY,Cyprus,H,Transport & storage,2018,1.06
+CY,Cyprus,H,Transport & storage,2020,1.77
+CY,Cyprus,H,Transport & storage,2022,1.18
+CY,Cyprus,I,Accommodation & food,2018,0.0
+CY,Cyprus,I,Accommodation & food,2020,0.47
+CY,Cyprus,I,Accommodation & food,2022,0.33
+CY,Cyprus,ICT,ICT sector,2018,0.0
+CY,Cyprus,ICT,ICT sector,2020,2.17
+CY,Cyprus,ICT,ICT sector,2022,0.0
+CZ,Czechia,C,Manufacturing,2018,15.86
+CZ,Czechia,C,Manufacturing,2020,18.08
+CZ,Czechia,C,Manufacturing,2022,16.64
+CZ,Czechia,G,Wholesale & retail,2018,1.19
+CZ,Czechia,G,Wholesale & retail,2020,2.99
+CZ,Czechia,G,Wholesale & retail,2022,1.59
+CZ,Czechia,J,Information & communication,2018,0.93
+CZ,Czechia,J,Information & communication,2020,0.82
+CZ,Czechia,J,Information & communication,2022,1.34
+CZ,Czechia,F,Construction,2018,3.81
+CZ,Czechia,F,Construction,2020,1.83
+CZ,Czechia,F,Construction,2022,2.49
+CZ,Czechia,N,Administrative services,2018,1.59
+CZ,Czechia,N,Administrative services,2020,3.32
+CZ,Czechia,N,Administrative services,2022,1.08
+CZ,Czechia,H,Transport & storage,2018,0.86
+CZ,Czechia,H,Transport & storage,2020,2.12
+CZ,Czechia,H,Transport & storage,2022,0.77
+CZ,Czechia,I,Accommodation & food,2018,1.18
+CZ,Czechia,I,Accommodation & food,2020,2.41
+CZ,Czechia,I,Accommodation & food,2022,0.53
+CZ,Czechia,ICT,ICT sector,2018,3.82
+CZ,Czechia,ICT,ICT sector,2020,2.77
+CZ,Czechia,ICT,ICT sector,2022,3.23
+DE,Germany,C,Manufacturing,2018,16.13
+DE,Germany,C,Manufacturing,2020,18.66
+DE,Germany,C,Manufacturing,2022,15.94
+DE,Germany,G,Wholesale & retail,2018,3.81
+DE,Germany,G,Wholesale & retail,2020,3.7
+DE,Germany,G,Wholesale & retail,2022,4.35
+DE,Germany,J,Information & communication,2018,2.27
+DE,Germany,J,Information & communication,2020,2.13
+DE,Germany,J,Information & communication,2022,2.33
+DE,Germany,F,Construction,2018,1.5
+DE,Germany,F,Construction,2020,2.43
+DE,Germany,F,Construction,2022,1.6
+DE,Germany,N,Administrative services,2018,0.38
+DE,Germany,N,Administrative services,2020,1.76
+DE,Germany,N,Administrative services,2022,1.45
+DE,Germany,H,Transport & storage,2018,1.45
+DE,Germany,H,Transport & storage,2020,2.16
+DE,Germany,H,Transport & storage,2022,2.17
+DE,Germany,I,Accommodation & food,2018,0.67
+DE,Germany,I,Accommodation & food,2020,1.55
+DE,Germany,I,Accommodation & food,2022,1.81
+DE,Germany,ICT,ICT sector,2018,4.57
+DE,Germany,ICT,ICT sector,2020,4.77
+DE,Germany,ICT,ICT sector,2022,3.84
+DK,Denmark,C,Manufacturing,2018,32.59
+DK,Denmark,C,Manufacturing,2020,40.06
+DK,Denmark,C,Manufacturing,2022,39.2
+DK,Denmark,G,Wholesale & retail,2018,7.23
+DK,Denmark,G,Wholesale & retail,2020,12.46
+DK,Denmark,G,Wholesale & retail,2022,11.55
+DK,Denmark,J,Information & communication,2018,2.65
+DK,Denmark,J,Information & communication,2020,4.33
+DK,Denmark,J,Information & communication,2022,1.99
+DK,Denmark,F,Construction,2018,1.95
+DK,Denmark,F,Construction,2020,2.14
+DK,Denmark,F,Construction,2022,2.4
+DK,Denmark,N,Administrative services,2018,3.02
+DK,Denmark,N,Administrative services,2020,5.81
+DK,Denmark,N,Administrative services,2022,3.93
+DK,Denmark,H,Transport & storage,2018,3.28
+DK,Denmark,H,Transport & storage,2020,2.31
+DK,Denmark,H,Transport & storage,2022,2.74
+DK,Denmark,I,Accommodation & food,2018,0.0
+DK,Denmark,I,Accommodation & food,2020,0.81
+DK,Denmark,I,Accommodation & food,2022,2.56
+DK,Denmark,ICT,ICT sector,2018,4.37
+DK,Denmark,ICT,ICT sector,2020,6.46
+DK,Denmark,ICT,ICT sector,2022,4.04
+EE,Estonia,C,Manufacturing,2018,9.03
+EE,Estonia,C,Manufacturing,2020,9.94
+EE,Estonia,C,Manufacturing,2022,13.38
+EE,Estonia,G,Wholesale & retail,2018,2.45
+EE,Estonia,G,Wholesale & retail,2020,1.21
+EE,Estonia,G,Wholesale & retail,2022,3.95
+EE,Estonia,J,Information & communication,2018,3.08
+EE,Estonia,J,Information & communication,2020,4.27
+EE,Estonia,J,Information & communication,2022,1.11
+EE,Estonia,F,Construction,2018,0.1
+EE,Estonia,F,Construction,2020,0.66
+EE,Estonia,F,Construction,2022,1.03
+EE,Estonia,N,Administrative services,2018,0.26
+EE,Estonia,N,Administrative services,2020,1.54
+EE,Estonia,N,Administrative services,2022,3.12
+EE,Estonia,H,Transport & storage,2018,1.54
+EE,Estonia,H,Transport & storage,2020,0.5
+EE,Estonia,H,Transport & storage,2022,1.11
+EE,Estonia,I,Accommodation & food,2018,1.08
+EE,Estonia,I,Accommodation & food,2020,0.0
+EE,Estonia,I,Accommodation & food,2022,4.22
+EE,Estonia,ICT,ICT sector,2018,5.11
+EE,Estonia,ICT,ICT sector,2020,7.58
+EE,Estonia,ICT,ICT sector,2022,4.57
+EL,Greece,C,Manufacturing,2022,9.7
+EL,Greece,G,Wholesale & retail,2018,2.7
+EL,Greece,G,Wholesale & retail,2022,1.14
+EL,Greece,J,Information & communication,2018,0.64
+EL,Greece,J,Information & communication,2022,0.25
+EL,Greece,F,Construction,2018,7.17
+EL,Greece,F,Construction,2022,0.06
+EL,Greece,N,Administrative services,2018,0.26
+EL,Greece,N,Administrative services,2022,0.22
+EL,Greece,H,Transport & storage,2018,1.57
+EL,Greece,H,Transport & storage,2022,2.02
+EL,Greece,I,Accommodation & food,2018,0.02
+EL,Greece,I,Accommodation & food,2022,0.08
+EL,Greece,ICT,ICT sector,2018,0.91
+EL,Greece,ICT,ICT sector,2022,0.78
+ES,Spain,C,Manufacturing,2018,24.97
+ES,Spain,C,Manufacturing,2020,19.84
+ES,Spain,C,Manufacturing,2022,19.47
+ES,Spain,G,Wholesale & retail,2018,7.31
+ES,Spain,G,Wholesale & retail,2020,6.29
+ES,Spain,G,Wholesale & retail,2022,4.87
+ES,Spain,J,Information & communication,2018,1.87
+ES,Spain,J,Information & communication,2020,1.58
+ES,Spain,J,Information & communication,2022,1.08
+ES,Spain,F,Construction,2018,6.24
+ES,Spain,F,Construction,2020,4.55
+ES,Spain,F,Construction,2022,4.29
+ES,Spain,N,Administrative services,2018,6.41
+ES,Spain,N,Administrative services,2020,6.17
+ES,Spain,N,Administrative services,2022,7.08
+ES,Spain,H,Transport & storage,2018,6.42
+ES,Spain,H,Transport & storage,2020,4.22
+ES,Spain,H,Transport & storage,2022,3.69
+ES,Spain,I,Accommodation & food,2018,8.11
+ES,Spain,I,Accommodation & food,2022,9.78
+ES,Spain,ICT,ICT sector,2018,4.49
+ES,Spain,ICT,ICT sector,2020,2.93
+ES,Spain,ICT,ICT sector,2022,2.74
+FI,Finland,C,Manufacturing,2018,33.31
+FI,Finland,C,Manufacturing,2020,33.86
+FI,Finland,C,Manufacturing,2022,28.21
+FI,Finland,G,Wholesale & retail,2018,11.03
+FI,Finland,G,Wholesale & retail,2020,9.55
+FI,Finland,G,Wholesale & retail,2022,7.45
+FI,Finland,J,Information & communication,2018,2.02
+FI,Finland,J,Information & communication,2020,1.43
+FI,Finland,J,Information & communication,2022,1.98
+FI,Finland,F,Construction,2018,1.26
+FI,Finland,F,Construction,2020,0.75
+FI,Finland,F,Construction,2022,5.77
+FI,Finland,N,Administrative services,2018,3.27
+FI,Finland,N,Administrative services,2020,8.3
+FI,Finland,N,Administrative services,2022,2.3
+FI,Finland,H,Transport & storage,2018,3.07
+FI,Finland,H,Transport & storage,2020,2.38
+FI,Finland,H,Transport & storage,2022,3.7
+FI,Finland,I,Accommodation & food,2022,0.53
+FI,Finland,ICT,ICT sector,2018,3.74
+FI,Finland,ICT,ICT sector,2020,2.85
+FI,Finland,ICT,ICT sector,2022,2.59
+FR,France,C,Manufacturing,2018,23.26
+FR,France,C,Manufacturing,2020,23.1
+FR,France,C,Manufacturing,2022,25.7
+FR,France,G,Wholesale & retail,2018,5.44
+FR,France,G,Wholesale & retail,2020,6.4
+FR,France,G,Wholesale & retail,2022,4.99
+FR,France,J,Information & communication,2018,1.02
+FR,France,J,Information & communication,2020,0.25
+FR,France,J,Information & communication,2022,1.25
+FR,France,F,Construction,2018,5.5
+FR,France,F,Construction,2020,5.95
+FR,France,F,Construction,2022,5.87
+FR,France,N,Administrative services,2018,4.85
+FR,France,N,Administrative services,2020,5.37
+FR,France,H,Transport & storage,2018,4.22
+FR,France,H,Transport & storage,2020,4.42
+FR,France,H,Transport & storage,2022,1.99
+FR,France,I,Accommodation & food,2018,1.32
+FR,France,I,Accommodation & food,2020,4.07
+FR,France,I,Accommodation & food,2022,2.91
+FR,France,ICT,ICT sector,2018,3.03
+FR,France,ICT,ICT sector,2020,2.84
+FR,France,ICT,ICT sector,2022,2.82
+HR,Croatia,C,Manufacturing,2020,17.14
+HR,Croatia,C,Manufacturing,2022,9.12
+HR,Croatia,G,Wholesale & retail,2020,1.79
+HR,Croatia,G,Wholesale & retail,2022,2.55
+HR,Croatia,J,Information & communication,2020,2.9
+HR,Croatia,J,Information & communication,2022,1.61
+HR,Croatia,F,Construction,2020,3.92
+HR,Croatia,F,Construction,2022,2.07
+HR,Croatia,N,Administrative services,2020,1.82
+HR,Croatia,N,Administrative services,2022,0.73
+HR,Croatia,H,Transport & storage,2020,2.71
+HR,Croatia,H,Transport & storage,2022,1.57
+HR,Croatia,I,Accommodation & food,2020,4.38
+HR,Croatia,I,Accommodation & food,2022,0.85
+HR,Croatia,ICT,ICT sector,2020,3.24
+HR,Croatia,ICT,ICT sector,2022,2.87
+HU,Hungary,C,Manufacturing,2018,10.3
+HU,Hungary,C,Manufacturing,2020,13.89
+HU,Hungary,C,Manufacturing,2022,11.5
+HU,Hungary,G,Wholesale & retail,2018,1.82
+HU,Hungary,G,Wholesale & retail,2020,1.81
+HU,Hungary,G,Wholesale & retail,2022,2.06
+HU,Hungary,J,Information & communication,2018,0.96
+HU,Hungary,J,Information & communication,2020,0.69
+HU,Hungary,J,Information & communication,2022,1.69
+HU,Hungary,F,Construction,2018,0.86
+HU,Hungary,F,Construction,2020,1.45
+HU,Hungary,F,Construction,2022,2.13
+HU,Hungary,N,Administrative services,2018,0.09
+HU,Hungary,N,Administrative services,2020,0.96
+HU,Hungary,N,Administrative services,2022,1.78
+HU,Hungary,H,Transport & storage,2018,0.64
+HU,Hungary,H,Transport & storage,2020,0.19
+HU,Hungary,H,Transport & storage,2022,0.26
+HU,Hungary,I,Accommodation & food,2018,0.7
+HU,Hungary,I,Accommodation & food,2020,0.43
+HU,Hungary,I,Accommodation & food,2022,0.26
+HU,Hungary,ICT,ICT sector,2018,3.1
+HU,Hungary,ICT,ICT sector,2020,2.57
+HU,Hungary,ICT,ICT sector,2022,4.21
+IE,Ireland,C,Manufacturing,2020,3.8
+IE,Ireland,C,Manufacturing,2022,18.75
+IE,Ireland,G,Wholesale & retail,2020,1.17
+IE,Ireland,G,Wholesale & retail,2022,1.67
+IE,Ireland,J,Information & communication,2020,2.99
+IE,Ireland,J,Information & communication,2022,1.17
+IE,Ireland,F,Construction,2020,0.21
+IE,Ireland,F,Construction,2022,0.17
+IE,Ireland,N,Administrative services,2020,0.41
+IE,Ireland,N,Administrative services,2022,6.1
+IE,Ireland,H,Transport & storage,2020,5.37
+IE,Ireland,H,Transport & storage,2022,1.0
+IE,Ireland,I,Accommodation & food,2020,0.43
+IE,Ireland,ICT,ICT sector,2020,2.48
+IE,Ireland,ICT,ICT sector,2022,2.44
+IT,Italy,C,Manufacturing,2018,19.25
+IT,Italy,C,Manufacturing,2020,20.55
+IT,Italy,C,Manufacturing,2022,19.08
+IT,Italy,G,Wholesale & retail,2018,4.43
+IT,Italy,G,Wholesale & retail,2020,4.44
+IT,Italy,G,Wholesale & retail,2022,5.44
+IT,Italy,J,Information & communication,2018,1.43
+IT,Italy,J,Information & communication,2020,0.76
+IT,Italy,J,Information & communication,2022,1.21
+IT,Italy,F,Construction,2018,2.18
+IT,Italy,F,Construction,2020,2.59
+IT,Italy,F,Construction,2022,2.37
+IT,Italy,N,Administrative services,2018,5.62
+IT,Italy,N,Administrative services,2020,2.86
+IT,Italy,N,Administrative services,2022,3.03
+IT,Italy,H,Transport & storage,2018,2.98
+IT,Italy,H,Transport & storage,2020,2.98
+IT,Italy,H,Transport & storage,2022,4.6
+IT,Italy,I,Accommodation & food,2018,2.0
+IT,Italy,I,Accommodation & food,2020,0.85
+IT,Italy,I,Accommodation & food,2022,0.71
+IT,Italy,ICT,ICT sector,2018,4.18
+IT,Italy,ICT,ICT sector,2020,3.77
+IT,Italy,ICT,ICT sector,2022,3.92
+LT,Lithuania,C,Manufacturing,2018,7.63
+LT,Lithuania,C,Manufacturing,2020,10.54
+LT,Lithuania,C,Manufacturing,2022,14.05
+LT,Lithuania,G,Wholesale & retail,2018,2.25
+LT,Lithuania,G,Wholesale & retail,2020,2.52
+LT,Lithuania,G,Wholesale & retail,2022,1.62
+LT,Lithuania,J,Information & communication,2018,0.23
+LT,Lithuania,J,Information & communication,2020,8.35
+LT,Lithuania,J,Information & communication,2022,3.44
+LT,Lithuania,F,Construction,2018,4.47
+LT,Lithuania,F,Construction,2020,5.95
+LT,Lithuania,F,Construction,2022,4.77
+LT,Lithuania,N,Administrative services,2018,3.94
+LT,Lithuania,N,Administrative services,2020,0.33
+LT,Lithuania,N,Administrative services,2022,0.91
+LT,Lithuania,H,Transport & storage,2018,0.18
+LT,Lithuania,H,Transport & storage,2020,1.64
+LT,Lithuania,H,Transport & storage,2022,0.6
+LT,Lithuania,I,Accommodation & food,2018,0.81
+LT,Lithuania,I,Accommodation & food,2020,2.3
+LT,Lithuania,I,Accommodation & food,2022,1.05
+LT,Lithuania,ICT,ICT sector,2018,2.05
+LT,Lithuania,ICT,ICT sector,2020,9.05
+LT,Lithuania,ICT,ICT sector,2022,4.55
+LU,Luxembourg,C,Manufacturing,2020,30.56
+LU,Luxembourg,C,Manufacturing,2022,25.67
+LU,Luxembourg,G,Wholesale & retail,2020,6.27
+LU,Luxembourg,G,Wholesale & retail,2022,4.2
+LU,Luxembourg,J,Information & communication,2020,1.1
+LU,Luxembourg,J,Information & communication,2022,0.76
+LU,Luxembourg,F,Construction,2020,4.35
+LU,Luxembourg,F,Construction,2022,4.48
+LU,Luxembourg,N,Administrative services,2020,1.69
+LU,Luxembourg,N,Administrative services,2022,4.13
+LU,Luxembourg,H,Transport & storage,2020,5.19
+LU,Luxembourg,H,Transport & storage,2022,1.91
+LU,Luxembourg,I,Accommodation & food,2020,1.19
+LU,Luxembourg,I,Accommodation & food,2022,0.21
+LU,Luxembourg,ICT,ICT sector,2020,0.7
+LU,Luxembourg,ICT,ICT sector,2022,1.99
+LV,Latvia,C,Manufacturing,2020,9.37
+LV,Latvia,C,Manufacturing,2022,12.44
+LV,Latvia,G,Wholesale & retail,2020,2.28
+LV,Latvia,G,Wholesale & retail,2022,3.3
+LV,Latvia,J,Information & communication,2020,2.0
+LV,Latvia,J,Information & communication,2022,4.07
+LV,Latvia,F,Construction,2020,3.01
+LV,Latvia,F,Construction,2022,4.18
+LV,Latvia,N,Administrative services,2020,1.46
+LV,Latvia,N,Administrative services,2022,2.13
+LV,Latvia,H,Transport & storage,2020,1.44
+LV,Latvia,H,Transport & storage,2022,1.67
+LV,Latvia,I,Accommodation & food,2020,0.24
+LV,Latvia,I,Accommodation & food,2022,1.64
+LV,Latvia,ICT,ICT sector,2020,2.42
+LV,Latvia,ICT,ICT sector,2022,4.99
+ME,Montenegro,C,Manufacturing,2020,5.56
+ME,Montenegro,G,Wholesale & retail,2020,0.0
+ME,Montenegro,G,Wholesale & retail,2022,2.63
+ME,Montenegro,J,Information & communication,2020,0.0
+ME,Montenegro,F,Construction,2020,0.0
+ME,Montenegro,F,Construction,2022,0.0
+ME,Montenegro,N,Administrative services,2020,2.46
+ME,Montenegro,N,Administrative services,2022,6.48
+ME,Montenegro,H,Transport & storage,2020,4.22
+ME,Montenegro,I,Accommodation & food,2020,0.0
+ME,Montenegro,I,Accommodation & food,2022,10.6
+ME,Montenegro,ICT,ICT sector,2020,0.0
+MK,North Macedonia,C,Manufacturing,2022,9.22
+MK,North Macedonia,G,Wholesale & retail,2022,7.4
+MK,North Macedonia,J,Information & communication,2020,5.85
+MK,North Macedonia,I,Accommodation & food,2020,5.92
+MK,North Macedonia,ICT,ICT sector,2020,3.98
+MT,Malta,C,Manufacturing,2018,14.37
+MT,Malta,C,Manufacturing,2020,24.13
+MT,Malta,C,Manufacturing,2022,29.68
+MT,Malta,G,Wholesale & retail,2018,1.08
+MT,Malta,G,Wholesale & retail,2020,3.57
+MT,Malta,G,Wholesale & retail,2022,3.81
+MT,Malta,J,Information & communication,2018,0.82
+MT,Malta,J,Information & communication,2020,1.59
+MT,Malta,J,Information & communication,2022,2.68
+MT,Malta,F,Construction,2018,9.12
+MT,Malta,F,Construction,2020,10.13
+MT,Malta,F,Construction,2022,10.22
+MT,Malta,N,Administrative services,2018,0.7
+MT,Malta,N,Administrative services,2020,2.41
+MT,Malta,N,Administrative services,2022,2.35
+MT,Malta,H,Transport & storage,2018,1.22
+MT,Malta,H,Transport & storage,2020,1.02
+MT,Malta,H,Transport & storage,2022,2.29
+MT,Malta,I,Accommodation & food,2018,1.87
+MT,Malta,I,Accommodation & food,2020,3.69
+MT,Malta,I,Accommodation & food,2022,2.99
+MT,Malta,ICT,ICT sector,2018,2.93
+MT,Malta,ICT,ICT sector,2020,4.97
+MT,Malta,ICT,ICT sector,2022,4.55
+NL,Netherlands,C,Manufacturing,2018,28.73
+NL,Netherlands,C,Manufacturing,2020,25.35
+NL,Netherlands,C,Manufacturing,2022,23.04
+NL,Netherlands,G,Wholesale & retail,2018,5.86
+NL,Netherlands,G,Wholesale & retail,2020,5.21
+NL,Netherlands,G,Wholesale & retail,2022,4.67
+NL,Netherlands,J,Information & communication,2018,0.69
+NL,Netherlands,J,Information & communication,2020,1.37
+NL,Netherlands,J,Information & communication,2022,0.89
+NL,Netherlands,F,Construction,2018,2.58
+NL,Netherlands,F,Construction,2020,2.4
+NL,Netherlands,F,Construction,2022,2.79
+NL,Netherlands,N,Administrative services,2018,2.04
+NL,Netherlands,N,Administrative services,2020,2.97
+NL,Netherlands,N,Administrative services,2022,2.68
+NL,Netherlands,H,Transport & storage,2018,2.91
+NL,Netherlands,H,Transport & storage,2020,3.34
+NL,Netherlands,H,Transport & storage,2022,2.73
+NL,Netherlands,I,Accommodation & food,2018,0.61
+NL,Netherlands,I,Accommodation & food,2020,0.49
+NL,Netherlands,I,Accommodation & food,2022,1.37
+NL,Netherlands,ICT,ICT sector,2018,1.04
+NL,Netherlands,ICT,ICT sector,2020,2.54
+NL,Netherlands,ICT,ICT sector,2022,1.86
+NO,Norway,C,Manufacturing,2018,19.98
+NO,Norway,C,Manufacturing,2020,23.27
+NO,Norway,C,Manufacturing,2022,18.56
+NO,Norway,G,Wholesale & retail,2018,1.39
+NO,Norway,G,Wholesale & retail,2020,2.29
+NO,Norway,G,Wholesale & retail,2022,2.42
+NO,Norway,J,Information & communication,2018,4.11
+NO,Norway,J,Information & communication,2020,4.92
+NO,Norway,J,Information & communication,2022,1.61
+NO,Norway,F,Construction,2018,0.88
+NO,Norway,F,Construction,2020,2.68
+NO,Norway,F,Construction,2022,1.73
+NO,Norway,N,Administrative services,2018,0.91
+NO,Norway,N,Administrative services,2020,2.58
+NO,Norway,N,Administrative services,2022,1.02
+NO,Norway,H,Transport & storage,2018,2.55
+NO,Norway,H,Transport & storage,2020,1.17
+NO,Norway,H,Transport & storage,2022,1.11
+NO,Norway,I,Accommodation & food,2018,0.66
+NO,Norway,I,Accommodation & food,2020,0.84
+NO,Norway,I,Accommodation & food,2022,1.13
+NO,Norway,ICT,ICT sector,2018,6.24
+NO,Norway,ICT,ICT sector,2020,6.7
+NO,Norway,ICT,ICT sector,2022,2.0
+PL,Poland,C,Manufacturing,2018,11.35
+PL,Poland,C,Manufacturing,2020,14.16
+PL,Poland,C,Manufacturing,2022,11.1
+PL,Poland,G,Wholesale & retail,2018,3.56
+PL,Poland,G,Wholesale & retail,2020,3.75
+PL,Poland,G,Wholesale & retail,2022,1.69
+PL,Poland,J,Information & communication,2018,2.48
+PL,Poland,J,Information & communication,2020,1.74
+PL,Poland,J,Information & communication,2022,1.59
+PL,Poland,F,Construction,2018,5.62
+PL,Poland,F,Construction,2020,7.6
+PL,Poland,F,Construction,2022,2.2
+PL,Poland,N,Administrative services,2018,6.76
+PL,Poland,N,Administrative services,2020,5.38
+PL,Poland,N,Administrative services,2022,1.58
+PL,Poland,H,Transport & storage,2018,5.33
+PL,Poland,H,Transport & storage,2020,3.5
+PL,Poland,H,Transport & storage,2022,1.9
+PL,Poland,I,Accommodation & food,2018,2.74
+PL,Poland,I,Accommodation & food,2020,2.45
+PL,Poland,I,Accommodation & food,2022,0.91
+PL,Poland,ICT,ICT sector,2018,4.67
+PL,Poland,ICT,ICT sector,2020,4.44
+PL,Poland,ICT,ICT sector,2022,3.31
+PT,Portugal,C,Manufacturing,2018,17.32
+PT,Portugal,C,Manufacturing,2020,19.07
+PT,Portugal,C,Manufacturing,2022,17.77
+PT,Portugal,G,Wholesale & retail,2018,4.0
+PT,Portugal,G,Wholesale & retail,2020,6.31
+PT,Portugal,G,Wholesale & retail,2022,3.25
+PT,Portugal,J,Information & communication,2018,2.28
+PT,Portugal,J,Information & communication,2020,3.25
+PT,Portugal,J,Information & communication,2022,2.19
+PT,Portugal,F,Construction,2018,4.04
+PT,Portugal,F,Construction,2020,4.48
+PT,Portugal,F,Construction,2022,5.45
+PT,Portugal,N,Administrative services,2018,2.1
+PT,Portugal,N,Administrative services,2020,6.74
+PT,Portugal,N,Administrative services,2022,6.23
+PT,Portugal,H,Transport & storage,2018,4.5
+PT,Portugal,H,Transport & storage,2020,4.37
+PT,Portugal,H,Transport & storage,2022,2.36
+PT,Portugal,I,Accommodation & food,2018,2.19
+PT,Portugal,I,Accommodation & food,2020,2.01
+PT,Portugal,I,Accommodation & food,2022,3.79
+PT,Portugal,ICT,ICT sector,2018,5.36
+PT,Portugal,ICT,ICT sector,2020,3.96
+PT,Portugal,ICT,ICT sector,2022,4.8
+RO,Romania,C,Manufacturing,2018,6.51
+RO,Romania,C,Manufacturing,2020,6.81
+RO,Romania,C,Manufacturing,2022,6.68
+RO,Romania,G,Wholesale & retail,2018,1.77
+RO,Romania,G,Wholesale & retail,2020,2.23
+RO,Romania,G,Wholesale & retail,2022,1.56
+RO,Romania,J,Information & communication,2018,0.19
+RO,Romania,J,Information & communication,2020,1.53
+RO,Romania,J,Information & communication,2022,0.74
+RO,Romania,F,Construction,2018,1.92
+RO,Romania,F,Construction,2020,3.53
+RO,Romania,F,Construction,2022,1.1
+RO,Romania,N,Administrative services,2018,0.93
+RO,Romania,N,Administrative services,2020,2.24
+RO,Romania,N,Administrative services,2022,0.54
+RO,Romania,H,Transport & storage,2018,0.35
+RO,Romania,H,Transport & storage,2020,3.15
+RO,Romania,H,Transport & storage,2022,2.67
+RO,Romania,I,Accommodation & food,2018,0.03
+RO,Romania,I,Accommodation & food,2020,2.23
+RO,Romania,I,Accommodation & food,2022,0.03
+RO,Romania,ICT,ICT sector,2018,1.98
+RO,Romania,ICT,ICT sector,2020,2.14
+RO,Romania,ICT,ICT sector,2022,1.37
+RS,Serbia,C,Manufacturing,2020,8.07
+RS,Serbia,C,Manufacturing,2022,9.44
+RS,Serbia,G,Wholesale & retail,2020,0.43
+RS,Serbia,G,Wholesale & retail,2022,0.56
+RS,Serbia,J,Information & communication,2020,5.3
+RS,Serbia,J,Information & communication,2022,0.11
+RS,Serbia,F,Construction,2020,0.73
+RS,Serbia,F,Construction,2022,0.08
+RS,Serbia,N,Administrative services,2020,2.11
+RS,Serbia,N,Administrative services,2022,2.39
+RS,Serbia,H,Transport & storage,2020,3.96
+RS,Serbia,H,Transport & storage,2022,1.59
+RS,Serbia,I,Accommodation & food,2020,1.7
+RS,Serbia,I,Accommodation & food,2022,2.51
+RS,Serbia,ICT,ICT sector,2020,4.49
+RS,Serbia,ICT,ICT sector,2022,0.69
+SE,Sweden,C,Manufacturing,2018,29.72
+SE,Sweden,C,Manufacturing,2020,27.02
+SE,Sweden,C,Manufacturing,2022,28.27
+SE,Sweden,G,Wholesale & retail,2018,3.78
+SE,Sweden,G,Wholesale & retail,2020,1.86
+SE,Sweden,G,Wholesale & retail,2022,3.85
+SE,Sweden,J,Information & communication,2018,2.03
+SE,Sweden,J,Information & communication,2020,1.77
+SE,Sweden,J,Information & communication,2022,4.78
+SE,Sweden,F,Construction,2018,2.79
+SE,Sweden,F,Construction,2020,0.86
+SE,Sweden,F,Construction,2022,2.36
+SE,Sweden,N,Administrative services,2018,3.45
+SE,Sweden,N,Administrative services,2020,2.56
+SE,Sweden,N,Administrative services,2022,1.69
+SE,Sweden,H,Transport & storage,2018,2.85
+SE,Sweden,H,Transport & storage,2020,0.41
+SE,Sweden,H,Transport & storage,2022,1.85
+SE,Sweden,I,Accommodation & food,2018,1.77
+SE,Sweden,I,Accommodation & food,2020,0.23
+SE,Sweden,I,Accommodation & food,2022,1.7
+SE,Sweden,ICT,ICT sector,2018,2.15
+SE,Sweden,ICT,ICT sector,2020,2.91
+SE,Sweden,ICT,ICT sector,2022,5.67
+SI,Slovenia,C,Manufacturing,2018,18.9
+SI,Slovenia,C,Manufacturing,2020,22.64
+SI,Slovenia,C,Manufacturing,2022,19.5
+SI,Slovenia,G,Wholesale & retail,2018,2.11
+SI,Slovenia,G,Wholesale & retail,2022,2.01
+SI,Slovenia,J,Information & communication,2018,0.0
+SI,Slovenia,J,Information & communication,2020,0.0
+SI,Slovenia,J,Information & communication,2022,1.84
+SI,Slovenia,F,Construction,2020,1.63
+SI,Slovenia,F,Construction,2022,0.9
+SI,Slovenia,N,Administrative services,2020,3.24
+SI,Slovenia,H,Transport & storage,2018,0.0
+SI,Slovenia,H,Transport & storage,2020,1.43
+SI,Slovenia,I,Accommodation & food,2018,0.0
+SI,Slovenia,I,Accommodation & food,2020,0.0
+SI,Slovenia,I,Accommodation & food,2022,0.68
+SI,Slovenia,ICT,ICT sector,2018,1.94
+SI,Slovenia,ICT,ICT sector,2020,1.82
+SI,Slovenia,ICT,ICT sector,2022,5.9
+SK,Slovakia,C,Manufacturing,2018,14.16
+SK,Slovakia,C,Manufacturing,2020,20.4
+SK,Slovakia,C,Manufacturing,2022,17.92
+SK,Slovakia,G,Wholesale & retail,2018,2.78
+SK,Slovakia,G,Wholesale & retail,2020,3.02
+SK,Slovakia,G,Wholesale & retail,2022,3.32
+SK,Slovakia,J,Information & communication,2018,0.19
+SK,Slovakia,J,Information & communication,2020,5.15
+SK,Slovakia,J,Information & communication,2022,1.98
+SK,Slovakia,F,Construction,2018,2.87
+SK,Slovakia,F,Construction,2020,1.53
+SK,Slovakia,F,Construction,2022,3.15
+SK,Slovakia,N,Administrative services,2018,2.31
+SK,Slovakia,N,Administrative services,2020,3.27
+SK,Slovakia,N,Administrative services,2022,2.97
+SK,Slovakia,H,Transport & storage,2018,2.14
+SK,Slovakia,H,Transport & storage,2020,3.02
+SK,Slovakia,H,Transport & storage,2022,1.03
+SK,Slovakia,I,Accommodation & food,2018,1.94
+SK,Slovakia,I,Accommodation & food,2020,0.29
+SK,Slovakia,I,Accommodation & food,2022,2.9
+SK,Slovakia,ICT,ICT sector,2018,2.29
+SK,Slovakia,ICT,ICT sector,2020,7.26
+SK,Slovakia,ICT,ICT sector,2022,3.18
+TR,Turkey,C,Manufacturing,2020,9.78
+TR,Turkey,C,Manufacturing,2022,9.31
+TR,Turkey,G,Wholesale & retail,2020,4.38
+TR,Turkey,G,Wholesale & retail,2022,4.28
+TR,Turkey,J,Information & communication,2020,1.23
+TR,Turkey,J,Information & communication,2022,4.51
+TR,Turkey,F,Construction,2020,2.97
+TR,Turkey,F,Construction,2022,2.25
+TR,Turkey,N,Administrative services,2020,2.9
+TR,Turkey,N,Administrative services,2022,2.77
+TR,Turkey,H,Transport & storage,2020,1.84
+TR,Turkey,H,Transport & storage,2022,3.94
+TR,Turkey,I,Accommodation & food,2020,2.42
+TR,Turkey,I,Accommodation & food,2022,3.8
+TR,Turkey,ICT,ICT sector,2020,2.47
+TR,Turkey,ICT,ICT sector,2022,5.98
+UK,United Kingdom,C,Manufacturing,2020,7.47
+UK,United Kingdom,G,Wholesale & retail,2020,2.61
+UK,United Kingdom,J,Information & communication,2020,1.72
+UK,United Kingdom,F,Construction,2020,0.76
+UK,United Kingdom,N,Administrative services,2020,1.25
+UK,United Kingdom,H,Transport & storage,2020,0.19
+UK,United Kingdom,I,Accommodation & food,2020,0.3
+UK,United Kingdom,ICT,ICT sector,2020,2.33

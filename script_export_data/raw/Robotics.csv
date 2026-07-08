@@ -1,0 +1,1561 @@
+country1,country2,field,year,num_articles,complete
+France,Algeria,Robotics,2020,27,True
+France,Algeria,Robotics,2016,25,True
+Canada,Australia,Robotics,2020,25,True
+Canada,Australia,Robotics,2021,29,True
+China,Australia,Robotics,2019,114,True
+China,Australia,Robotics,2023,145,True
+China,Australia,Robotics,2017,48,True
+China,Australia,Robotics,2025,122,False
+China,Australia,Robotics,2022,133,True
+China,Australia,Robotics,2018,86,True
+China,Australia,Robotics,2016,55,True
+China,Australia,Robotics,2015,50,True
+China,Australia,Robotics,2020,117,True
+China,Australia,Robotics,2021,160,True
+China,Australia,Robotics,2024,149,False
+France,Australia,Robotics,2024,36,False
+Germany,Australia,Robotics,2024,30,False
+Germany,Australia,Robotics,2023,31,True
+Germany,Australia,Robotics,2020,25,True
+Japan,Australia,Robotics,2024,26,False
+Japan,Australia,Robotics,2020,26,True
+United Kingdom,Australia,Robotics,2025,30,False
+United Kingdom,Australia,Robotics,2022,73,True
+United Kingdom,Australia,Robotics,2016,33,True
+United Kingdom,Australia,Robotics,2018,36,True
+United Kingdom,Australia,Robotics,2023,64,True
+United Kingdom,Australia,Robotics,2020,63,True
+United Kingdom,Australia,Robotics,2021,58,True
+United Kingdom,Australia,Robotics,2024,54,False
+United Kingdom,Australia,Robotics,2019,46,True
+United States,Australia,Robotics,2019,71,True
+United States,Australia,Robotics,2020,69,True
+United States,Australia,Robotics,2022,81,True
+United States,Australia,Robotics,2023,110,True
+United States,Australia,Robotics,2015,35,True
+United States,Australia,Robotics,2016,78,True
+United States,Australia,Robotics,2018,86,True
+United States,Australia,Robotics,2025,46,False
+United States,Australia,Robotics,2021,88,True
+United States,Australia,Robotics,2017,63,True
+United States,Australia,Robotics,2024,89,False
+Germany,Austria,Robotics,2018,37,True
+Germany,Austria,Robotics,2021,60,True
+Germany,Austria,Robotics,2015,29,True
+Germany,Austria,Robotics,2025,33,False
+Germany,Austria,Robotics,2016,34,True
+Germany,Austria,Robotics,2022,80,True
+Germany,Austria,Robotics,2023,73,True
+Germany,Austria,Robotics,2017,26,True
+Germany,Austria,Robotics,2019,37,True
+Germany,Austria,Robotics,2020,36,True
+Germany,Austria,Robotics,2024,56,False
+Italy,Austria,Robotics,2018,27,True
+Italy,Austria,Robotics,2024,32,False
+Italy,Austria,Robotics,2021,36,True
+United Kingdom,Austria,Robotics,2022,25,True
+United States,Austria,Robotics,2023,34,True
+United States,Austria,Robotics,2022,28,True
+United States,Austria,Robotics,2024,30,False
+France,Belgium,Robotics,2022,36,True
+France,Belgium,Robotics,2023,25,True
+France,Belgium,Robotics,2020,25,True
+France,Belgium,Robotics,2024,27,False
+France,Belgium,Robotics,2021,38,True
+France,Belgium,Robotics,2019,28,True
+Germany,Belgium,Robotics,2020,25,True
+Germany,Belgium,Robotics,2022,46,True
+Germany,Belgium,Robotics,2015,28,True
+Germany,Belgium,Robotics,2025,28,False
+Germany,Belgium,Robotics,2019,25,True
+Germany,Belgium,Robotics,2021,38,True
+Germany,Belgium,Robotics,2018,29,True
+Germany,Belgium,Robotics,2024,40,False
+Germany,Belgium,Robotics,2023,35,True
+Italy,Belgium,Robotics,2025,46,False
+Italy,Belgium,Robotics,2021,57,True
+Italy,Belgium,Robotics,2020,44,True
+Italy,Belgium,Robotics,2023,59,True
+Italy,Belgium,Robotics,2018,40,True
+Italy,Belgium,Robotics,2015,38,True
+Italy,Belgium,Robotics,2024,46,False
+Italy,Belgium,Robotics,2019,36,True
+Italy,Belgium,Robotics,2022,60,True
+Netherlands,Belgium,Robotics,2020,25,True
+Netherlands,Belgium,Robotics,2021,39,True
+Netherlands,Belgium,Robotics,2022,44,True
+Netherlands,Belgium,Robotics,2024,32,False
+Netherlands,Belgium,Robotics,2019,28,True
+Netherlands,Belgium,Robotics,2023,38,True
+Spain,Belgium,Robotics,2021,26,True
+Spain,Belgium,Robotics,2025,25,False
+Spain,Belgium,Robotics,2022,38,True
+Switzerland,Belgium,Robotics,2022,33,True
+Switzerland,Belgium,Robotics,2021,27,True
+United Kingdom,Belgium,Robotics,2023,30,True
+United Kingdom,Belgium,Robotics,2020,37,True
+United Kingdom,Belgium,Robotics,2021,44,True
+United Kingdom,Belgium,Robotics,2024,27,False
+United Kingdom,Belgium,Robotics,2019,43,True
+United Kingdom,Belgium,Robotics,2022,46,True
+United Kingdom,Belgium,Robotics,2018,41,True
+United States,Belgium,Robotics,2021,42,True
+United States,Belgium,Robotics,2024,31,False
+United States,Belgium,Robotics,2025,25,False
+United States,Belgium,Robotics,2019,29,True
+United States,Belgium,Robotics,2023,40,True
+United States,Belgium,Robotics,2018,46,True
+United States,Belgium,Robotics,2020,40,True
+United States,Belgium,Robotics,2022,46,True
+Portugal,Brazil,Robotics,2019,35,True
+Portugal,Brazil,Robotics,2020,30,True
+United States,Brazil,Robotics,2019,36,True
+United States,Brazil,Robotics,2024,32,False
+United States,Brazil,Robotics,2022,37,True
+United States,Brazil,Robotics,2020,48,True
+United States,Brazil,Robotics,2023,31,True
+United States,Brazil,Robotics,2017,28,True
+United States,Brazil,Robotics,2016,36,True
+United States,Brazil,Robotics,2018,32,True
+United States,Brazil,Robotics,2021,43,True
+Australia,Canada,Robotics,2020,25,True
+Australia,Canada,Robotics,2021,29,True
+China,Canada,Robotics,2018,131,True
+China,Canada,Robotics,2024,172,False
+China,Canada,Robotics,2023,217,True
+China,Canada,Robotics,2021,185,True
+China,Canada,Robotics,2017,115,True
+China,Canada,Robotics,2016,117,True
+China,Canada,Robotics,2020,196,True
+China,Canada,Robotics,2019,166,True
+China,Canada,Robotics,2022,221,True
+China,Canada,Robotics,2025,92,False
+China,Canada,Robotics,2015,116,True
+France,Canada,Robotics,2021,28,True
+France,Canada,Robotics,2019,33,True
+France,Canada,Robotics,2023,34,True
+France,Canada,Robotics,2018,36,True
+France,Canada,Robotics,2020,36,True
+France,Canada,Robotics,2015,26,True
+France,Canada,Robotics,2022,45,True
+Germany,Canada,Robotics,2025,28,False
+Germany,Canada,Robotics,2022,33,True
+Germany,Canada,Robotics,2023,42,True
+Germany,Canada,Robotics,2021,43,True
+Germany,Canada,Robotics,2019,41,True
+Germany,Canada,Robotics,2024,37,False
+Germany,Canada,Robotics,2020,35,True
+Germany,Canada,Robotics,2018,29,True
+Iran,Canada,Robotics,2021,26,True
+Iran,Canada,Robotics,2023,25,True
+Italy,Canada,Robotics,2022,25,True
+Italy,Canada,Robotics,2020,33,True
+Italy,Canada,Robotics,2024,27,False
+Italy,Canada,Robotics,2021,27,True
+Japan,Canada,Robotics,2020,32,True
+Japan,Canada,Robotics,2023,29,True
+Japan,Canada,Robotics,2021,25,True
+Japan,Canada,Robotics,2024,30,False
+South Korea,Canada,Robotics,2024,26,False
+United Arab Emirates,Canada,Robotics,2023,25,True
+United Kingdom,Canada,Robotics,2018,36,True
+United Kingdom,Canada,Robotics,2016,28,True
+United Kingdom,Canada,Robotics,2019,37,True
+United Kingdom,Canada,Robotics,2020,58,True
+United Kingdom,Canada,Robotics,2022,47,True
+United Kingdom,Canada,Robotics,2024,48,False
+United Kingdom,Canada,Robotics,2023,47,True
+United Kingdom,Canada,Robotics,2017,38,True
+United Kingdom,Canada,Robotics,2021,37,True
+United States,Canada,Robotics,2023,188,True
+United States,Canada,Robotics,2022,159,True
+United States,Canada,Robotics,2021,192,True
+United States,Canada,Robotics,2016,86,True
+United States,Canada,Robotics,2019,128,True
+United States,Canada,Robotics,2020,157,True
+United States,Canada,Robotics,2018,127,True
+United States,Canada,Robotics,2017,99,True
+United States,Canada,Robotics,2024,147,False
+United States,Canada,Robotics,2025,110,False
+United States,Canada,Robotics,2015,87,True
+Australia,China,Robotics,2017,48,True
+Australia,China,Robotics,2023,145,True
+Australia,China,Robotics,2015,50,True
+Australia,China,Robotics,2018,86,True
+Australia,China,Robotics,2022,133,True
+Australia,China,Robotics,2021,160,True
+Australia,China,Robotics,2019,114,True
+Australia,China,Robotics,2020,117,True
+Australia,China,Robotics,2025,122,False
+Australia,China,Robotics,2024,149,False
+Australia,China,Robotics,2016,55,True
+Canada,China,Robotics,2015,116,True
+Canada,China,Robotics,2020,196,True
+Canada,China,Robotics,2023,217,True
+Canada,China,Robotics,2019,166,True
+Canada,China,Robotics,2018,131,True
+Canada,China,Robotics,2021,185,True
+Canada,China,Robotics,2022,221,True
+Canada,China,Robotics,2025,92,False
+Canada,China,Robotics,2016,117,True
+Canada,China,Robotics,2017,115,True
+Canada,China,Robotics,2024,172,False
+Denmark,China,Robotics,2021,30,True
+Denmark,China,Robotics,2022,25,True
+Finland,China,Robotics,2022,25,True
+Finland,China,Robotics,2024,26,False
+Finland,China,Robotics,2023,41,True
+France,China,Robotics,2022,60,True
+France,China,Robotics,2019,48,True
+France,China,Robotics,2023,76,True
+France,China,Robotics,2018,42,True
+France,China,Robotics,2016,36,True
+France,China,Robotics,2024,76,False
+France,China,Robotics,2017,26,True
+France,China,Robotics,2020,48,True
+France,China,Robotics,2021,58,True
+France,China,Robotics,2015,32,True
+France,China,Robotics,2025,48,False
+Germany,China,Robotics,2022,123,True
+Germany,China,Robotics,2017,66,True
+Germany,China,Robotics,2020,136,True
+Germany,China,Robotics,2021,113,True
+Germany,China,Robotics,2015,52,True
+Germany,China,Robotics,2018,74,True
+Germany,China,Robotics,2019,92,True
+Germany,China,Robotics,2025,71,False
+Germany,China,Robotics,2023,146,True
+Germany,China,Robotics,2024,167,False
+Germany,China,Robotics,2016,55,True
+India,China,Robotics,2024,40,False
+India,China,Robotics,2021,29,True
+India,China,Robotics,2023,30,True
+India,China,Robotics,2022,41,True
+Italy,China,Robotics,2025,50,False
+Italy,China,Robotics,2018,27,True
+Italy,China,Robotics,2022,64,True
+Italy,China,Robotics,2019,65,True
+Italy,China,Robotics,2024,99,False
+Italy,China,Robotics,2021,71,True
+Italy,China,Robotics,2020,86,True
+Italy,China,Robotics,2016,35,True
+Italy,China,Robotics,2017,26,True
+Italy,China,Robotics,2023,67,True
+Japan,China,Robotics,2020,199,True
+Japan,China,Robotics,2016,145,True
+Japan,China,Robotics,2018,141,True
+Japan,China,Robotics,2015,126,True
+Japan,China,Robotics,2024,178,False
+Japan,China,Robotics,2017,141,True
+Japan,China,Robotics,2023,164,True
+Japan,China,Robotics,2019,137,True
+Japan,China,Robotics,2021,197,True
+Japan,China,Robotics,2025,115,False
+Japan,China,Robotics,2022,209,True
+Malaysia,China,Robotics,2025,34,False
+Malaysia,China,Robotics,2024,56,False
+Malaysia,China,Robotics,2023,30,True
+Netherlands,China,Robotics,2021,54,True
+Netherlands,China,Robotics,2025,26,False
+Netherlands,China,Robotics,2024,59,False
+Netherlands,China,Robotics,2020,45,True
+Netherlands,China,Robotics,2023,55,True
+Netherlands,China,Robotics,2022,49,True
+New Zealand,China,Robotics,2018,28,True
+Pakistan,China,Robotics,2021,28,True
+Pakistan,China,Robotics,2023,34,True
+Pakistan,China,Robotics,2024,28,False
+Pakistan,China,Robotics,2022,30,True
+Russia,China,Robotics,2022,35,True
+Russia,China,Robotics,2023,31,True
+Russia,China,Robotics,2024,33,False
+Saudi Arabia,China,Robotics,2023,32,True
+Saudi Arabia,China,Robotics,2024,29,False
+Singapore,China,Robotics,2023,242,True
+Singapore,China,Robotics,2021,149,True
+Singapore,China,Robotics,2020,137,True
+Singapore,China,Robotics,2025,162,False
+Singapore,China,Robotics,2018,98,True
+Singapore,China,Robotics,2022,177,True
+Singapore,China,Robotics,2017,58,True
+Singapore,China,Robotics,2015,45,True
+Singapore,China,Robotics,2024,257,False
+Singapore,China,Robotics,2019,98,True
+Singapore,China,Robotics,2016,69,True
+South Korea,China,Robotics,2020,41,True
+South Korea,China,Robotics,2021,58,True
+South Korea,China,Robotics,2025,47,False
+South Korea,China,Robotics,2022,67,True
+South Korea,China,Robotics,2023,61,True
+South Korea,China,Robotics,2019,28,True
+South Korea,China,Robotics,2024,74,False
+Sweden,China,Robotics,2023,39,True
+Sweden,China,Robotics,2021,36,True
+Sweden,China,Robotics,2020,30,True
+Sweden,China,Robotics,2024,37,False
+Sweden,China,Robotics,2018,28,True
+Sweden,China,Robotics,2022,32,True
+Sweden,China,Robotics,2019,33,True
+Switzerland,China,Robotics,2023,33,True
+Switzerland,China,Robotics,2021,28,True
+Switzerland,China,Robotics,2025,25,False
+Switzerland,China,Robotics,2024,46,False
+Switzerland,China,Robotics,2022,33,True
+Taiwan,China,Robotics,2021,51,True
+Taiwan,China,Robotics,2024,48,False
+Taiwan,China,Robotics,2022,43,True
+Taiwan,China,Robotics,2018,33,True
+Taiwan,China,Robotics,2020,42,True
+Taiwan,China,Robotics,2023,47,True
+Taiwan,China,Robotics,2019,46,True
+United Kingdom,China,Robotics,2022,379,True
+United Kingdom,China,Robotics,2024,524,False
+United Kingdom,China,Robotics,2015,118,True
+United Kingdom,China,Robotics,2018,204,True
+United Kingdom,China,Robotics,2017,183,True
+United Kingdom,China,Robotics,2019,313,True
+United Kingdom,China,Robotics,2020,370,True
+United Kingdom,China,Robotics,2016,117,True
+United Kingdom,China,Robotics,2025,296,False
+United Kingdom,China,Robotics,2021,361,True
+United Kingdom,China,Robotics,2023,473,True
+United States,China,Robotics,2025,296,False
+United States,China,Robotics,2023,545,True
+United States,China,Robotics,2016,245,True
+United States,China,Robotics,2020,536,True
+United States,China,Robotics,2022,556,True
+United States,China,Robotics,2019,493,True
+United States,China,Robotics,2024,605,False
+United States,China,Robotics,2015,212,True
+United States,China,Robotics,2018,407,True
+United States,China,Robotics,2017,289,True
+United States,China,Robotics,2021,521,True
+China,Denmark,Robotics,2022,25,True
+China,Denmark,Robotics,2021,30,True
+Germany,Denmark,Robotics,2021,33,True
+Germany,Denmark,Robotics,2024,32,False
+Germany,Denmark,Robotics,2017,25,True
+Germany,Denmark,Robotics,2023,28,True
+Germany,Denmark,Robotics,2022,27,True
+Germany,Denmark,Robotics,2025,25,False
+Italy,Denmark,Robotics,2024,28,False
+Italy,Denmark,Robotics,2021,29,True
+United States,Denmark,Robotics,2022,29,True
+Saudi Arabia,Egypt,Robotics,2021,27,True
+Saudi Arabia,Egypt,Robotics,2022,33,True
+Saudi Arabia,Egypt,Robotics,2023,27,True
+Saudi Arabia,Egypt,Robotics,2024,26,False
+China,Finland,Robotics,2023,41,True
+China,Finland,Robotics,2024,26,False
+China,Finland,Robotics,2022,25,True
+Algeria,France,Robotics,2020,27,True
+Algeria,France,Robotics,2016,25,True
+Australia,France,Robotics,2024,36,False
+Belgium,France,Robotics,2024,27,False
+Belgium,France,Robotics,2021,38,True
+Belgium,France,Robotics,2023,25,True
+Belgium,France,Robotics,2019,28,True
+Belgium,France,Robotics,2022,36,True
+Belgium,France,Robotics,2020,25,True
+Canada,France,Robotics,2021,28,True
+Canada,France,Robotics,2015,26,True
+Canada,France,Robotics,2022,45,True
+Canada,France,Robotics,2019,33,True
+Canada,France,Robotics,2018,36,True
+Canada,France,Robotics,2020,36,True
+Canada,France,Robotics,2023,34,True
+China,France,Robotics,2017,26,True
+China,France,Robotics,2016,36,True
+China,France,Robotics,2022,60,True
+China,France,Robotics,2015,32,True
+China,France,Robotics,2018,42,True
+China,France,Robotics,2019,48,True
+China,France,Robotics,2020,48,True
+China,France,Robotics,2025,48,False
+China,France,Robotics,2024,76,False
+China,France,Robotics,2021,58,True
+China,France,Robotics,2023,76,True
+Germany,France,Robotics,2017,59,True
+Germany,France,Robotics,2024,69,False
+Germany,France,Robotics,2023,41,True
+Germany,France,Robotics,2019,48,True
+Germany,France,Robotics,2025,30,False
+Germany,France,Robotics,2015,44,True
+Germany,France,Robotics,2020,45,True
+Germany,France,Robotics,2022,72,True
+Germany,France,Robotics,2018,55,True
+Germany,France,Robotics,2016,45,True
+Germany,France,Robotics,2021,57,True
+Italy,France,Robotics,2018,73,True
+Italy,France,Robotics,2019,76,True
+Italy,France,Robotics,2022,87,True
+Italy,France,Robotics,2024,121,False
+Italy,France,Robotics,2016,74,True
+Italy,France,Robotics,2017,65,True
+Italy,France,Robotics,2025,85,False
+Italy,France,Robotics,2023,99,True
+Italy,France,Robotics,2015,60,True
+Italy,France,Robotics,2021,103,True
+Italy,France,Robotics,2020,66,True
+Japan,France,Robotics,2021,42,True
+Japan,France,Robotics,2020,42,True
+Japan,France,Robotics,2019,50,True
+Japan,France,Robotics,2022,36,True
+Japan,France,Robotics,2018,55,True
+Japan,France,Robotics,2023,41,True
+Japan,France,Robotics,2017,56,True
+Japan,France,Robotics,2024,59,False
+Japan,France,Robotics,2016,44,True
+Japan,France,Robotics,2015,45,True
+Mexico,France,Robotics,2022,25,True
+Mexico,France,Robotics,2018,27,True
+Mexico,France,Robotics,2019,26,True
+Mexico,France,Robotics,2017,30,True
+Netherlands,France,Robotics,2022,32,True
+Netherlands,France,Robotics,2020,39,True
+Netherlands,France,Robotics,2023,31,True
+Netherlands,France,Robotics,2019,25,True
+Netherlands,France,Robotics,2021,49,True
+Netherlands,France,Robotics,2024,37,False
+Spain,France,Robotics,2022,70,True
+Spain,France,Robotics,2017,43,True
+Spain,France,Robotics,2019,49,True
+Spain,France,Robotics,2023,35,True
+Spain,France,Robotics,2021,55,True
+Spain,France,Robotics,2025,40,False
+Spain,France,Robotics,2018,32,True
+Spain,France,Robotics,2015,35,True
+Spain,France,Robotics,2020,44,True
+Spain,France,Robotics,2024,49,False
+Switzerland,France,Robotics,2024,30,False
+Switzerland,France,Robotics,2016,25,True
+Switzerland,France,Robotics,2022,41,True
+Switzerland,France,Robotics,2019,28,True
+Switzerland,France,Robotics,2021,31,True
+Switzerland,France,Robotics,2020,25,True
+Switzerland,France,Robotics,2023,37,True
+United Kingdom,France,Robotics,2017,52,True
+United Kingdom,France,Robotics,2024,71,False
+United Kingdom,France,Robotics,2023,56,True
+United Kingdom,France,Robotics,2018,54,True
+United Kingdom,France,Robotics,2020,67,True
+United Kingdom,France,Robotics,2025,32,False
+United Kingdom,France,Robotics,2021,68,True
+United Kingdom,France,Robotics,2015,40,True
+United Kingdom,France,Robotics,2019,80,True
+United Kingdom,France,Robotics,2022,71,True
+United Kingdom,France,Robotics,2016,44,True
+United States,France,Robotics,2016,64,True
+United States,France,Robotics,2025,54,False
+United States,France,Robotics,2019,77,True
+United States,France,Robotics,2021,91,True
+United States,France,Robotics,2023,71,True
+United States,France,Robotics,2015,61,True
+United States,France,Robotics,2017,70,True
+United States,France,Robotics,2018,93,True
+United States,France,Robotics,2024,93,False
+United States,France,Robotics,2022,83,True
+United States,France,Robotics,2020,96,True
+Australia,Germany,Robotics,2024,30,False
+Australia,Germany,Robotics,2023,31,True
+Australia,Germany,Robotics,2020,25,True
+Austria,Germany,Robotics,2019,37,True
+Austria,Germany,Robotics,2022,80,True
+Austria,Germany,Robotics,2020,36,True
+Austria,Germany,Robotics,2016,34,True
+Austria,Germany,Robotics,2023,73,True
+Austria,Germany,Robotics,2018,37,True
+Austria,Germany,Robotics,2021,60,True
+Austria,Germany,Robotics,2025,33,False
+Austria,Germany,Robotics,2017,26,True
+Austria,Germany,Robotics,2015,29,True
+Austria,Germany,Robotics,2024,56,False
+Belgium,Germany,Robotics,2015,28,True
+Belgium,Germany,Robotics,2018,29,True
+Belgium,Germany,Robotics,2022,46,True
+Belgium,Germany,Robotics,2025,28,False
+Belgium,Germany,Robotics,2024,40,False
+Belgium,Germany,Robotics,2019,25,True
+Belgium,Germany,Robotics,2021,38,True
+Belgium,Germany,Robotics,2020,25,True
+Belgium,Germany,Robotics,2023,35,True
+Canada,Germany,Robotics,2018,29,True
+Canada,Germany,Robotics,2021,43,True
+Canada,Germany,Robotics,2023,42,True
+Canada,Germany,Robotics,2025,28,False
+Canada,Germany,Robotics,2022,33,True
+Canada,Germany,Robotics,2024,37,False
+Canada,Germany,Robotics,2020,35,True
+Canada,Germany,Robotics,2019,41,True
+China,Germany,Robotics,2015,52,True
+China,Germany,Robotics,2018,74,True
+China,Germany,Robotics,2022,123,True
+China,Germany,Robotics,2020,136,True
+China,Germany,Robotics,2021,113,True
+China,Germany,Robotics,2025,71,False
+China,Germany,Robotics,2019,92,True
+China,Germany,Robotics,2016,55,True
+China,Germany,Robotics,2023,146,True
+China,Germany,Robotics,2024,167,False
+China,Germany,Robotics,2017,66,True
+Denmark,Germany,Robotics,2024,32,False
+Denmark,Germany,Robotics,2025,25,False
+Denmark,Germany,Robotics,2021,33,True
+Denmark,Germany,Robotics,2023,28,True
+Denmark,Germany,Robotics,2022,27,True
+Denmark,Germany,Robotics,2017,25,True
+France,Germany,Robotics,2018,55,True
+France,Germany,Robotics,2015,44,True
+France,Germany,Robotics,2025,30,False
+France,Germany,Robotics,2022,72,True
+France,Germany,Robotics,2020,45,True
+France,Germany,Robotics,2016,45,True
+France,Germany,Robotics,2023,41,True
+France,Germany,Robotics,2017,59,True
+France,Germany,Robotics,2019,48,True
+France,Germany,Robotics,2021,57,True
+France,Germany,Robotics,2024,69,False
+India,Germany,Robotics,2024,27,False
+Italy,Germany,Robotics,2020,122,True
+Italy,Germany,Robotics,2017,70,True
+Italy,Germany,Robotics,2024,122,False
+Italy,Germany,Robotics,2025,76,False
+Italy,Germany,Robotics,2016,87,True
+Italy,Germany,Robotics,2023,106,True
+Italy,Germany,Robotics,2015,79,True
+Italy,Germany,Robotics,2021,128,True
+Italy,Germany,Robotics,2019,117,True
+Italy,Germany,Robotics,2018,87,True
+Italy,Germany,Robotics,2022,117,True
+Japan,Germany,Robotics,2025,27,False
+Japan,Germany,Robotics,2019,36,True
+Japan,Germany,Robotics,2021,42,True
+Japan,Germany,Robotics,2022,44,True
+Japan,Germany,Robotics,2018,42,True
+Japan,Germany,Robotics,2020,41,True
+Japan,Germany,Robotics,2015,34,True
+Japan,Germany,Robotics,2024,52,False
+Japan,Germany,Robotics,2016,27,True
+Japan,Germany,Robotics,2023,38,True
+Japan,Germany,Robotics,2017,34,True
+Netherlands,Germany,Robotics,2016,26,True
+Netherlands,Germany,Robotics,2021,79,True
+Netherlands,Germany,Robotics,2025,49,False
+Netherlands,Germany,Robotics,2017,32,True
+Netherlands,Germany,Robotics,2015,41,True
+Netherlands,Germany,Robotics,2020,81,True
+Netherlands,Germany,Robotics,2023,99,True
+Netherlands,Germany,Robotics,2022,99,True
+Netherlands,Germany,Robotics,2018,56,True
+Netherlands,Germany,Robotics,2024,79,False
+Netherlands,Germany,Robotics,2019,67,True
+South Korea,Germany,Robotics,2022,26,True
+South Korea,Germany,Robotics,2024,27,False
+South Korea,Germany,Robotics,2023,26,True
+Spain,Germany,Robotics,2025,38,False
+Spain,Germany,Robotics,2022,65,True
+Spain,Germany,Robotics,2019,63,True
+Spain,Germany,Robotics,2015,35,True
+Spain,Germany,Robotics,2018,51,True
+Spain,Germany,Robotics,2020,50,True
+Spain,Germany,Robotics,2016,43,True
+Spain,Germany,Robotics,2021,39,True
+Spain,Germany,Robotics,2024,61,False
+Spain,Germany,Robotics,2017,45,True
+Spain,Germany,Robotics,2023,59,True
+Sweden,Germany,Robotics,2022,51,True
+Sweden,Germany,Robotics,2023,47,True
+Sweden,Germany,Robotics,2020,41,True
+Sweden,Germany,Robotics,2018,37,True
+Sweden,Germany,Robotics,2016,31,True
+Sweden,Germany,Robotics,2024,41,False
+Sweden,Germany,Robotics,2015,28,True
+Sweden,Germany,Robotics,2021,39,True
+Sweden,Germany,Robotics,2017,34,True
+Sweden,Germany,Robotics,2019,40,True
+Switzerland,Germany,Robotics,2022,105,True
+Switzerland,Germany,Robotics,2023,83,True
+Switzerland,Germany,Robotics,2016,38,True
+Switzerland,Germany,Robotics,2017,40,True
+Switzerland,Germany,Robotics,2025,42,False
+Switzerland,Germany,Robotics,2020,63,True
+Switzerland,Germany,Robotics,2015,42,True
+Switzerland,Germany,Robotics,2024,77,False
+Switzerland,Germany,Robotics,2019,52,True
+Switzerland,Germany,Robotics,2021,77,True
+Switzerland,Germany,Robotics,2018,60,True
+Turkey,Germany,Robotics,2022,31,True
+United Kingdom,Germany,Robotics,2019,93,True
+United Kingdom,Germany,Robotics,2022,144,True
+United Kingdom,Germany,Robotics,2021,110,True
+United Kingdom,Germany,Robotics,2023,133,True
+United Kingdom,Germany,Robotics,2024,134,False
+United Kingdom,Germany,Robotics,2025,66,False
+United Kingdom,Germany,Robotics,2017,79,True
+United Kingdom,Germany,Robotics,2020,93,True
+United Kingdom,Germany,Robotics,2016,67,True
+United Kingdom,Germany,Robotics,2015,72,True
+United Kingdom,Germany,Robotics,2018,82,True
+United States,Germany,Robotics,2024,190,False
+United States,Germany,Robotics,2019,168,True
+United States,Germany,Robotics,2025,96,False
+United States,Germany,Robotics,2020,199,True
+United States,Germany,Robotics,2017,145,True
+United States,Germany,Robotics,2016,150,True
+United States,Germany,Robotics,2018,161,True
+United States,Germany,Robotics,2022,186,True
+United States,Germany,Robotics,2015,123,True
+United States,Germany,Robotics,2021,191,True
+United States,Germany,Robotics,2023,166,True
+United Kingdom,Greece,Robotics,2022,26,True
+United Kingdom,Greece,Robotics,2018,30,True
+United Kingdom,Greece,Robotics,2023,30,True
+United Kingdom,Greece,Robotics,2024,27,False
+United States,Greece,Robotics,2015,25,True
+United States,Greece,Robotics,2021,25,True
+China,India,Robotics,2021,29,True
+China,India,Robotics,2024,40,False
+China,India,Robotics,2022,41,True
+China,India,Robotics,2023,30,True
+Germany,India,Robotics,2024,27,False
+Iraq,India,Robotics,2024,54,False
+Malaysia,India,Robotics,2024,27,False
+Saudi Arabia,India,Robotics,2024,31,False
+Saudi Arabia,India,Robotics,2022,33,True
+Saudi Arabia,India,Robotics,2023,33,True
+Singapore,India,Robotics,2021,27,True
+United Kingdom,India,Robotics,2025,41,False
+United Kingdom,India,Robotics,2023,44,True
+United Kingdom,India,Robotics,2020,33,True
+United Kingdom,India,Robotics,2022,36,True
+United Kingdom,India,Robotics,2021,37,True
+United Kingdom,India,Robotics,2024,58,False
+United States,India,Robotics,2023,118,True
+United States,India,Robotics,2022,98,True
+United States,India,Robotics,2018,60,True
+United States,India,Robotics,2017,61,True
+United States,India,Robotics,2021,67,True
+United States,India,Robotics,2025,99,False
+United States,India,Robotics,2019,59,True
+United States,India,Robotics,2016,44,True
+United States,India,Robotics,2024,146,False
+United States,India,Robotics,2015,32,True
+United States,India,Robotics,2020,77,True
+Japan,Indonesia,Robotics,2020,26,True
+Japan,Indonesia,Robotics,2023,25,True
+Japan,Indonesia,Robotics,2018,25,True
+Malaysia,Indonesia,Robotics,2023,28,True
+Canada,Iran,Robotics,2021,26,True
+Canada,Iran,Robotics,2023,25,True
+United States,Iran,Robotics,2020,33,True
+United States,Iran,Robotics,2019,27,True
+United States,Iran,Robotics,2023,30,True
+India,Iraq,Robotics,2024,54,False
+United Kingdom,Ireland,Robotics,2024,30,False
+United Kingdom,Ireland,Robotics,2023,27,True
+United States,Israel,Robotics,2015,30,True
+United States,Israel,Robotics,2017,35,True
+United States,Israel,Robotics,2024,35,False
+United States,Israel,Robotics,2022,32,True
+United States,Israel,Robotics,2020,47,True
+United States,Israel,Robotics,2019,48,True
+United States,Israel,Robotics,2021,60,True
+United States,Israel,Robotics,2023,47,True
+United States,Israel,Robotics,2016,32,True
+Austria,Italy,Robotics,2021,36,True
+Austria,Italy,Robotics,2018,27,True
+Austria,Italy,Robotics,2024,32,False
+Belgium,Italy,Robotics,2022,60,True
+Belgium,Italy,Robotics,2025,46,False
+Belgium,Italy,Robotics,2015,38,True
+Belgium,Italy,Robotics,2024,46,False
+Belgium,Italy,Robotics,2021,57,True
+Belgium,Italy,Robotics,2023,59,True
+Belgium,Italy,Robotics,2020,44,True
+Belgium,Italy,Robotics,2019,36,True
+Belgium,Italy,Robotics,2018,40,True
+Canada,Italy,Robotics,2021,27,True
+Canada,Italy,Robotics,2024,27,False
+Canada,Italy,Robotics,2022,25,True
+Canada,Italy,Robotics,2020,33,True
+China,Italy,Robotics,2025,50,False
+China,Italy,Robotics,2023,67,True
+China,Italy,Robotics,2017,26,True
+China,Italy,Robotics,2024,99,False
+China,Italy,Robotics,2016,35,True
+China,Italy,Robotics,2018,27,True
+China,Italy,Robotics,2022,64,True
+China,Italy,Robotics,2019,65,True
+China,Italy,Robotics,2021,71,True
+China,Italy,Robotics,2020,86,True
+Denmark,Italy,Robotics,2021,29,True
+Denmark,Italy,Robotics,2024,28,False
+France,Italy,Robotics,2022,87,True
+France,Italy,Robotics,2023,99,True
+France,Italy,Robotics,2025,85,False
+France,Italy,Robotics,2024,121,False
+France,Italy,Robotics,2020,66,True
+France,Italy,Robotics,2016,74,True
+France,Italy,Robotics,2017,65,True
+France,Italy,Robotics,2019,76,True
+France,Italy,Robotics,2018,73,True
+France,Italy,Robotics,2021,103,True
+France,Italy,Robotics,2015,60,True
+Germany,Italy,Robotics,2016,87,True
+Germany,Italy,Robotics,2021,128,True
+Germany,Italy,Robotics,2025,76,False
+Germany,Italy,Robotics,2023,106,True
+Germany,Italy,Robotics,2017,70,True
+Germany,Italy,Robotics,2020,122,True
+Germany,Italy,Robotics,2022,117,True
+Germany,Italy,Robotics,2015,79,True
+Germany,Italy,Robotics,2018,87,True
+Germany,Italy,Robotics,2019,117,True
+Germany,Italy,Robotics,2024,122,False
+Japan,Italy,Robotics,2022,27,True
+Japan,Italy,Robotics,2015,28,True
+Japan,Italy,Robotics,2020,37,True
+Japan,Italy,Robotics,2017,34,True
+Japan,Italy,Robotics,2024,33,False
+Japan,Italy,Robotics,2019,33,True
+Japan,Italy,Robotics,2021,30,True
+Japan,Italy,Robotics,2018,36,True
+Netherlands,Italy,Robotics,2024,84,False
+Netherlands,Italy,Robotics,2018,48,True
+Netherlands,Italy,Robotics,2022,84,True
+Netherlands,Italy,Robotics,2023,78,True
+Netherlands,Italy,Robotics,2019,48,True
+Netherlands,Italy,Robotics,2025,44,False
+Netherlands,Italy,Robotics,2016,36,True
+Netherlands,Italy,Robotics,2021,69,True
+Netherlands,Italy,Robotics,2017,37,True
+Netherlands,Italy,Robotics,2020,67,True
+Netherlands,Italy,Robotics,2015,31,True
+Romania,Italy,Robotics,2018,43,True
+Romania,Italy,Robotics,2017,35,True
+Spain,Italy,Robotics,2017,50,True
+Spain,Italy,Robotics,2023,94,True
+Spain,Italy,Robotics,2015,42,True
+Spain,Italy,Robotics,2020,50,True
+Spain,Italy,Robotics,2024,94,False
+Spain,Italy,Robotics,2018,44,True
+Spain,Italy,Robotics,2022,95,True
+Spain,Italy,Robotics,2025,77,False
+Spain,Italy,Robotics,2021,71,True
+Spain,Italy,Robotics,2016,38,True
+Spain,Italy,Robotics,2019,61,True
+Sweden,Italy,Robotics,2019,40,True
+Sweden,Italy,Robotics,2024,31,False
+Sweden,Italy,Robotics,2022,26,True
+Sweden,Italy,Robotics,2020,42,True
+Sweden,Italy,Robotics,2023,36,True
+Sweden,Italy,Robotics,2018,26,True
+Switzerland,Italy,Robotics,2017,39,True
+Switzerland,Italy,Robotics,2015,41,True
+Switzerland,Italy,Robotics,2020,50,True
+Switzerland,Italy,Robotics,2018,54,True
+Switzerland,Italy,Robotics,2025,44,False
+Switzerland,Italy,Robotics,2023,72,True
+Switzerland,Italy,Robotics,2016,53,True
+Switzerland,Italy,Robotics,2021,54,True
+Switzerland,Italy,Robotics,2022,77,True
+Switzerland,Italy,Robotics,2024,76,False
+Switzerland,Italy,Robotics,2019,45,True
+Turkey,Italy,Robotics,2022,25,True
+United Kingdom,Italy,Robotics,2015,72,True
+United Kingdom,Italy,Robotics,2021,139,True
+United Kingdom,Italy,Robotics,2023,146,True
+United Kingdom,Italy,Robotics,2019,122,True
+United Kingdom,Italy,Robotics,2020,135,True
+United Kingdom,Italy,Robotics,2024,148,False
+United Kingdom,Italy,Robotics,2025,76,False
+United Kingdom,Italy,Robotics,2018,141,True
+United Kingdom,Italy,Robotics,2022,142,True
+United Kingdom,Italy,Robotics,2016,102,True
+United Kingdom,Italy,Robotics,2017,115,True
+United States,Italy,Robotics,2019,140,True
+United States,Italy,Robotics,2015,90,True
+United States,Italy,Robotics,2024,188,False
+United States,Italy,Robotics,2023,159,True
+United States,Italy,Robotics,2025,123,False
+United States,Italy,Robotics,2020,181,True
+United States,Italy,Robotics,2018,146,True
+United States,Italy,Robotics,2016,141,True
+United States,Italy,Robotics,2021,157,True
+United States,Italy,Robotics,2017,137,True
+United States,Italy,Robotics,2022,135,True
+Australia,Japan,Robotics,2020,26,True
+Australia,Japan,Robotics,2024,26,False
+Canada,Japan,Robotics,2020,32,True
+Canada,Japan,Robotics,2024,30,False
+Canada,Japan,Robotics,2023,29,True
+Canada,Japan,Robotics,2021,25,True
+China,Japan,Robotics,2019,137,True
+China,Japan,Robotics,2015,126,True
+China,Japan,Robotics,2017,141,True
+China,Japan,Robotics,2025,115,False
+China,Japan,Robotics,2024,178,False
+China,Japan,Robotics,2023,164,True
+China,Japan,Robotics,2018,141,True
+China,Japan,Robotics,2021,197,True
+China,Japan,Robotics,2022,209,True
+China,Japan,Robotics,2020,199,True
+China,Japan,Robotics,2016,145,True
+France,Japan,Robotics,2023,41,True
+France,Japan,Robotics,2015,45,True
+France,Japan,Robotics,2024,59,False
+France,Japan,Robotics,2016,44,True
+France,Japan,Robotics,2019,50,True
+France,Japan,Robotics,2018,55,True
+France,Japan,Robotics,2022,36,True
+France,Japan,Robotics,2020,42,True
+France,Japan,Robotics,2021,42,True
+France,Japan,Robotics,2017,56,True
+Germany,Japan,Robotics,2020,41,True
+Germany,Japan,Robotics,2018,42,True
+Germany,Japan,Robotics,2017,34,True
+Germany,Japan,Robotics,2015,34,True
+Germany,Japan,Robotics,2019,36,True
+Germany,Japan,Robotics,2025,27,False
+Germany,Japan,Robotics,2022,44,True
+Germany,Japan,Robotics,2016,27,True
+Germany,Japan,Robotics,2023,38,True
+Germany,Japan,Robotics,2021,42,True
+Germany,Japan,Robotics,2024,52,False
+Indonesia,Japan,Robotics,2023,25,True
+Indonesia,Japan,Robotics,2018,25,True
+Indonesia,Japan,Robotics,2020,26,True
+Italy,Japan,Robotics,2017,34,True
+Italy,Japan,Robotics,2022,27,True
+Italy,Japan,Robotics,2019,33,True
+Italy,Japan,Robotics,2020,37,True
+Italy,Japan,Robotics,2015,28,True
+Italy,Japan,Robotics,2021,30,True
+Italy,Japan,Robotics,2018,36,True
+Italy,Japan,Robotics,2024,33,False
+Malaysia,Japan,Robotics,2015,37,True
+United Kingdom,Japan,Robotics,2021,41,True
+United Kingdom,Japan,Robotics,2020,42,True
+United Kingdom,Japan,Robotics,2022,42,True
+United Kingdom,Japan,Robotics,2018,43,True
+United Kingdom,Japan,Robotics,2025,32,False
+United Kingdom,Japan,Robotics,2024,63,False
+United Kingdom,Japan,Robotics,2023,44,True
+United Kingdom,Japan,Robotics,2016,30,True
+United Kingdom,Japan,Robotics,2019,43,True
+United Kingdom,Japan,Robotics,2017,34,True
+United Kingdom,Japan,Robotics,2015,38,True
+United States,Japan,Robotics,2025,64,False
+United States,Japan,Robotics,2023,121,True
+United States,Japan,Robotics,2024,117,False
+United States,Japan,Robotics,2016,111,True
+United States,Japan,Robotics,2019,112,True
+United States,Japan,Robotics,2018,117,True
+United States,Japan,Robotics,2022,118,True
+United States,Japan,Robotics,2020,138,True
+United States,Japan,Robotics,2017,91,True
+United States,Japan,Robotics,2015,81,True
+United States,Japan,Robotics,2021,132,True
+Vietnam,Japan,Robotics,2024,26,False
+China,Malaysia,Robotics,2025,34,False
+China,Malaysia,Robotics,2024,56,False
+China,Malaysia,Robotics,2023,30,True
+India,Malaysia,Robotics,2024,27,False
+Indonesia,Malaysia,Robotics,2023,28,True
+Japan,Malaysia,Robotics,2015,37,True
+France,Mexico,Robotics,2019,26,True
+France,Mexico,Robotics,2017,30,True
+France,Mexico,Robotics,2018,27,True
+France,Mexico,Robotics,2022,25,True
+United States,Mexico,Robotics,2024,31,False
+United States,Mexico,Robotics,2022,27,True
+United States,Mexico,Robotics,2023,25,True
+Belgium,Netherlands,Robotics,2022,44,True
+Belgium,Netherlands,Robotics,2021,39,True
+Belgium,Netherlands,Robotics,2023,38,True
+Belgium,Netherlands,Robotics,2020,25,True
+Belgium,Netherlands,Robotics,2024,32,False
+Belgium,Netherlands,Robotics,2019,28,True
+China,Netherlands,Robotics,2024,59,False
+China,Netherlands,Robotics,2021,54,True
+China,Netherlands,Robotics,2020,45,True
+China,Netherlands,Robotics,2025,26,False
+China,Netherlands,Robotics,2022,49,True
+China,Netherlands,Robotics,2023,55,True
+France,Netherlands,Robotics,2021,49,True
+France,Netherlands,Robotics,2019,25,True
+France,Netherlands,Robotics,2024,37,False
+France,Netherlands,Robotics,2022,32,True
+France,Netherlands,Robotics,2020,39,True
+France,Netherlands,Robotics,2023,31,True
+Germany,Netherlands,Robotics,2017,32,True
+Germany,Netherlands,Robotics,2015,41,True
+Germany,Netherlands,Robotics,2023,99,True
+Germany,Netherlands,Robotics,2024,79,False
+Germany,Netherlands,Robotics,2021,79,True
+Germany,Netherlands,Robotics,2018,56,True
+Germany,Netherlands,Robotics,2016,26,True
+Germany,Netherlands,Robotics,2019,67,True
+Germany,Netherlands,Robotics,2025,49,False
+Germany,Netherlands,Robotics,2020,81,True
+Germany,Netherlands,Robotics,2022,99,True
+Italy,Netherlands,Robotics,2023,78,True
+Italy,Netherlands,Robotics,2025,44,False
+Italy,Netherlands,Robotics,2020,67,True
+Italy,Netherlands,Robotics,2015,31,True
+Italy,Netherlands,Robotics,2017,37,True
+Italy,Netherlands,Robotics,2016,36,True
+Italy,Netherlands,Robotics,2019,48,True
+Italy,Netherlands,Robotics,2022,84,True
+Italy,Netherlands,Robotics,2021,69,True
+Italy,Netherlands,Robotics,2024,84,False
+Italy,Netherlands,Robotics,2018,48,True
+Spain,Netherlands,Robotics,2020,25,True
+Spain,Netherlands,Robotics,2019,38,True
+Spain,Netherlands,Robotics,2023,34,True
+Spain,Netherlands,Robotics,2022,43,True
+Spain,Netherlands,Robotics,2024,29,False
+Spain,Netherlands,Robotics,2021,30,True
+Sweden,Netherlands,Robotics,2021,25,True
+Sweden,Netherlands,Robotics,2023,29,True
+Sweden,Netherlands,Robotics,2020,25,True
+Switzerland,Netherlands,Robotics,2022,46,True
+Switzerland,Netherlands,Robotics,2021,38,True
+Switzerland,Netherlands,Robotics,2020,26,True
+Switzerland,Netherlands,Robotics,2018,30,True
+Switzerland,Netherlands,Robotics,2023,29,True
+Switzerland,Netherlands,Robotics,2024,29,False
+United Kingdom,Netherlands,Robotics,2020,55,True
+United Kingdom,Netherlands,Robotics,2023,53,True
+United Kingdom,Netherlands,Robotics,2017,27,True
+United Kingdom,Netherlands,Robotics,2015,29,True
+United Kingdom,Netherlands,Robotics,2024,68,False
+United Kingdom,Netherlands,Robotics,2019,52,True
+United Kingdom,Netherlands,Robotics,2022,56,True
+United Kingdom,Netherlands,Robotics,2018,38,True
+United Kingdom,Netherlands,Robotics,2025,27,False
+United Kingdom,Netherlands,Robotics,2021,59,True
+United States,Netherlands,Robotics,2018,53,True
+United States,Netherlands,Robotics,2021,68,True
+United States,Netherlands,Robotics,2017,45,True
+United States,Netherlands,Robotics,2024,74,False
+United States,Netherlands,Robotics,2023,67,True
+United States,Netherlands,Robotics,2019,63,True
+United States,Netherlands,Robotics,2022,68,True
+United States,Netherlands,Robotics,2025,43,False
+United States,Netherlands,Robotics,2015,35,True
+United States,Netherlands,Robotics,2020,51,True
+United States,Netherlands,Robotics,2016,55,True
+China,New Zealand,Robotics,2018,28,True
+China,Pakistan,Robotics,2024,28,False
+China,Pakistan,Robotics,2021,28,True
+China,Pakistan,Robotics,2022,30,True
+China,Pakistan,Robotics,2023,34,True
+Saudi Arabia,Pakistan,Robotics,2022,25,True
+Saudi Arabia,Pakistan,Robotics,2024,29,False
+Brazil,Portugal,Robotics,2020,30,True
+Brazil,Portugal,Robotics,2019,35,True
+Spain,Portugal,Robotics,2022,28,True
+Spain,Portugal,Robotics,2019,32,True
+Spain,Portugal,Robotics,2018,25,True
+United Kingdom,Portugal,Robotics,2018,31,True
+United Kingdom,Portugal,Robotics,2017,32,True
+United Kingdom,Portugal,Robotics,2019,35,True
+Italy,Romania,Robotics,2018,43,True
+Italy,Romania,Robotics,2017,35,True
+China,Russia,Robotics,2024,33,False
+China,Russia,Robotics,2022,35,True
+China,Russia,Robotics,2023,31,True
+China,Saudi Arabia,Robotics,2023,32,True
+China,Saudi Arabia,Robotics,2024,29,False
+Egypt,Saudi Arabia,Robotics,2024,26,False
+Egypt,Saudi Arabia,Robotics,2022,33,True
+Egypt,Saudi Arabia,Robotics,2021,27,True
+Egypt,Saudi Arabia,Robotics,2023,27,True
+India,Saudi Arabia,Robotics,2023,33,True
+India,Saudi Arabia,Robotics,2024,31,False
+India,Saudi Arabia,Robotics,2022,33,True
+Pakistan,Saudi Arabia,Robotics,2024,29,False
+Pakistan,Saudi Arabia,Robotics,2022,25,True
+United Arab Emirates,Saudi Arabia,Robotics,2023,26,True
+United States,Saudi Arabia,Robotics,2021,29,True
+United States,Saudi Arabia,Robotics,2024,31,False
+United States,Saudi Arabia,Robotics,2022,28,True
+United States,Saudi Arabia,Robotics,2020,29,True
+United States,Saudi Arabia,Robotics,2023,29,True
+China,Singapore,Robotics,2018,98,True
+China,Singapore,Robotics,2024,257,False
+China,Singapore,Robotics,2016,69,True
+China,Singapore,Robotics,2025,162,False
+China,Singapore,Robotics,2022,177,True
+China,Singapore,Robotics,2020,137,True
+China,Singapore,Robotics,2023,242,True
+China,Singapore,Robotics,2015,45,True
+China,Singapore,Robotics,2019,98,True
+China,Singapore,Robotics,2017,58,True
+China,Singapore,Robotics,2021,149,True
+India,Singapore,Robotics,2021,27,True
+United Kingdom,Singapore,Robotics,2020,37,True
+United Kingdom,Singapore,Robotics,2024,29,False
+United Kingdom,Singapore,Robotics,2021,34,True
+United Kingdom,Singapore,Robotics,2023,33,True
+United States,Singapore,Robotics,2023,65,True
+United States,Singapore,Robotics,2020,59,True
+United States,Singapore,Robotics,2016,52,True
+United States,Singapore,Robotics,2024,69,False
+United States,Singapore,Robotics,2025,30,False
+United States,Singapore,Robotics,2017,58,True
+United States,Singapore,Robotics,2018,65,True
+United States,Singapore,Robotics,2021,49,True
+United States,Singapore,Robotics,2015,32,True
+United States,Singapore,Robotics,2022,47,True
+United States,Singapore,Robotics,2019,68,True
+Canada,South Korea,Robotics,2024,26,False
+China,South Korea,Robotics,2021,58,True
+China,South Korea,Robotics,2023,61,True
+China,South Korea,Robotics,2025,47,False
+China,South Korea,Robotics,2020,41,True
+China,South Korea,Robotics,2022,67,True
+China,South Korea,Robotics,2024,74,False
+China,South Korea,Robotics,2019,28,True
+Germany,South Korea,Robotics,2024,27,False
+Germany,South Korea,Robotics,2023,26,True
+Germany,South Korea,Robotics,2022,26,True
+United Kingdom,South Korea,Robotics,2022,27,True
+United Kingdom,South Korea,Robotics,2024,28,False
+United Kingdom,South Korea,Robotics,2021,32,True
+United States,South Korea,Robotics,2016,76,True
+United States,South Korea,Robotics,2018,90,True
+United States,South Korea,Robotics,2017,100,True
+United States,South Korea,Robotics,2021,124,True
+United States,South Korea,Robotics,2024,158,False
+United States,South Korea,Robotics,2023,154,True
+United States,South Korea,Robotics,2020,139,True
+United States,South Korea,Robotics,2025,96,False
+United States,South Korea,Robotics,2022,149,True
+United States,South Korea,Robotics,2015,64,True
+United States,South Korea,Robotics,2019,92,True
+Vietnam,South Korea,Robotics,2021,25,True
+Vietnam,South Korea,Robotics,2022,30,True
+Belgium,Spain,Robotics,2021,26,True
+Belgium,Spain,Robotics,2022,38,True
+Belgium,Spain,Robotics,2025,25,False
+France,Spain,Robotics,2023,35,True
+France,Spain,Robotics,2017,43,True
+France,Spain,Robotics,2024,49,False
+France,Spain,Robotics,2019,49,True
+France,Spain,Robotics,2020,44,True
+France,Spain,Robotics,2018,32,True
+France,Spain,Robotics,2022,70,True
+France,Spain,Robotics,2025,40,False
+France,Spain,Robotics,2021,55,True
+France,Spain,Robotics,2015,35,True
+Germany,Spain,Robotics,2023,59,True
+Germany,Spain,Robotics,2018,51,True
+Germany,Spain,Robotics,2024,61,False
+Germany,Spain,Robotics,2020,50,True
+Germany,Spain,Robotics,2025,38,False
+Germany,Spain,Robotics,2022,65,True
+Germany,Spain,Robotics,2017,45,True
+Germany,Spain,Robotics,2015,35,True
+Germany,Spain,Robotics,2016,43,True
+Germany,Spain,Robotics,2021,39,True
+Germany,Spain,Robotics,2019,63,True
+Italy,Spain,Robotics,2016,38,True
+Italy,Spain,Robotics,2017,50,True
+Italy,Spain,Robotics,2021,71,True
+Italy,Spain,Robotics,2024,94,False
+Italy,Spain,Robotics,2019,61,True
+Italy,Spain,Robotics,2022,95,True
+Italy,Spain,Robotics,2015,42,True
+Italy,Spain,Robotics,2018,44,True
+Italy,Spain,Robotics,2023,94,True
+Italy,Spain,Robotics,2020,50,True
+Italy,Spain,Robotics,2025,77,False
+Netherlands,Spain,Robotics,2023,34,True
+Netherlands,Spain,Robotics,2019,38,True
+Netherlands,Spain,Robotics,2022,43,True
+Netherlands,Spain,Robotics,2020,25,True
+Netherlands,Spain,Robotics,2024,29,False
+Netherlands,Spain,Robotics,2021,30,True
+Portugal,Spain,Robotics,2019,32,True
+Portugal,Spain,Robotics,2018,25,True
+Portugal,Spain,Robotics,2022,28,True
+Sweden,Spain,Robotics,2022,26,True
+Switzerland,Spain,Robotics,2025,25,False
+Switzerland,Spain,Robotics,2022,30,True
+United Kingdom,Spain,Robotics,2022,75,True
+United Kingdom,Spain,Robotics,2020,64,True
+United Kingdom,Spain,Robotics,2019,51,True
+United Kingdom,Spain,Robotics,2016,38,True
+United Kingdom,Spain,Robotics,2017,33,True
+United Kingdom,Spain,Robotics,2025,28,False
+United Kingdom,Spain,Robotics,2021,55,True
+United Kingdom,Spain,Robotics,2023,63,True
+United Kingdom,Spain,Robotics,2015,42,True
+United Kingdom,Spain,Robotics,2024,58,False
+United Kingdom,Spain,Robotics,2018,50,True
+United States,Spain,Robotics,2024,66,False
+United States,Spain,Robotics,2019,67,True
+United States,Spain,Robotics,2021,56,True
+United States,Spain,Robotics,2023,75,True
+United States,Spain,Robotics,2016,48,True
+United States,Spain,Robotics,2020,62,True
+United States,Spain,Robotics,2018,51,True
+United States,Spain,Robotics,2025,45,False
+United States,Spain,Robotics,2017,42,True
+United States,Spain,Robotics,2015,34,True
+United States,Spain,Robotics,2022,67,True
+China,Sweden,Robotics,2018,28,True
+China,Sweden,Robotics,2024,37,False
+China,Sweden,Robotics,2022,32,True
+China,Sweden,Robotics,2021,36,True
+China,Sweden,Robotics,2023,39,True
+China,Sweden,Robotics,2020,30,True
+China,Sweden,Robotics,2019,33,True
+Germany,Sweden,Robotics,2019,40,True
+Germany,Sweden,Robotics,2015,28,True
+Germany,Sweden,Robotics,2017,34,True
+Germany,Sweden,Robotics,2023,47,True
+Germany,Sweden,Robotics,2016,31,True
+Germany,Sweden,Robotics,2018,37,True
+Germany,Sweden,Robotics,2022,51,True
+Germany,Sweden,Robotics,2024,41,False
+Germany,Sweden,Robotics,2020,41,True
+Germany,Sweden,Robotics,2021,39,True
+Italy,Sweden,Robotics,2023,36,True
+Italy,Sweden,Robotics,2019,40,True
+Italy,Sweden,Robotics,2022,26,True
+Italy,Sweden,Robotics,2020,42,True
+Italy,Sweden,Robotics,2024,31,False
+Italy,Sweden,Robotics,2018,26,True
+Netherlands,Sweden,Robotics,2023,29,True
+Netherlands,Sweden,Robotics,2020,25,True
+Netherlands,Sweden,Robotics,2021,25,True
+Spain,Sweden,Robotics,2022,26,True
+United Kingdom,Sweden,Robotics,2020,39,True
+United Kingdom,Sweden,Robotics,2021,37,True
+United Kingdom,Sweden,Robotics,2023,35,True
+United Kingdom,Sweden,Robotics,2024,39,False
+United Kingdom,Sweden,Robotics,2019,38,True
+United Kingdom,Sweden,Robotics,2022,37,True
+United Kingdom,Sweden,Robotics,2018,25,True
+United Kingdom,Sweden,Robotics,2017,34,True
+United States,Sweden,Robotics,2017,31,True
+United States,Sweden,Robotics,2024,52,False
+United States,Sweden,Robotics,2025,26,False
+United States,Sweden,Robotics,2020,55,True
+United States,Sweden,Robotics,2021,55,True
+United States,Sweden,Robotics,2023,47,True
+United States,Sweden,Robotics,2019,49,True
+United States,Sweden,Robotics,2018,40,True
+United States,Sweden,Robotics,2022,47,True
+United States,Sweden,Robotics,2016,36,True
+Belgium,Switzerland,Robotics,2022,33,True
+Belgium,Switzerland,Robotics,2021,27,True
+China,Switzerland,Robotics,2023,33,True
+China,Switzerland,Robotics,2024,46,False
+China,Switzerland,Robotics,2022,33,True
+China,Switzerland,Robotics,2021,28,True
+China,Switzerland,Robotics,2025,25,False
+France,Switzerland,Robotics,2023,37,True
+France,Switzerland,Robotics,2021,31,True
+France,Switzerland,Robotics,2016,25,True
+France,Switzerland,Robotics,2024,30,False
+France,Switzerland,Robotics,2019,28,True
+France,Switzerland,Robotics,2022,41,True
+France,Switzerland,Robotics,2020,25,True
+Germany,Switzerland,Robotics,2018,60,True
+Germany,Switzerland,Robotics,2023,83,True
+Germany,Switzerland,Robotics,2015,42,True
+Germany,Switzerland,Robotics,2019,52,True
+Germany,Switzerland,Robotics,2024,77,False
+Germany,Switzerland,Robotics,2020,63,True
+Germany,Switzerland,Robotics,2021,77,True
+Germany,Switzerland,Robotics,2016,38,True
+Germany,Switzerland,Robotics,2025,42,False
+Germany,Switzerland,Robotics,2017,40,True
+Germany,Switzerland,Robotics,2022,105,True
+Italy,Switzerland,Robotics,2018,54,True
+Italy,Switzerland,Robotics,2015,41,True
+Italy,Switzerland,Robotics,2019,45,True
+Italy,Switzerland,Robotics,2020,50,True
+Italy,Switzerland,Robotics,2017,39,True
+Italy,Switzerland,Robotics,2016,53,True
+Italy,Switzerland,Robotics,2024,76,False
+Italy,Switzerland,Robotics,2021,54,True
+Italy,Switzerland,Robotics,2025,44,False
+Italy,Switzerland,Robotics,2022,77,True
+Italy,Switzerland,Robotics,2023,72,True
+Netherlands,Switzerland,Robotics,2021,38,True
+Netherlands,Switzerland,Robotics,2024,29,False
+Netherlands,Switzerland,Robotics,2022,46,True
+Netherlands,Switzerland,Robotics,2023,29,True
+Netherlands,Switzerland,Robotics,2018,30,True
+Netherlands,Switzerland,Robotics,2020,26,True
+Spain,Switzerland,Robotics,2025,25,False
+Spain,Switzerland,Robotics,2022,30,True
+United Kingdom,Switzerland,Robotics,2019,30,True
+United Kingdom,Switzerland,Robotics,2025,37,False
+United Kingdom,Switzerland,Robotics,2024,44,False
+United Kingdom,Switzerland,Robotics,2018,36,True
+United Kingdom,Switzerland,Robotics,2021,39,True
+United Kingdom,Switzerland,Robotics,2016,27,True
+United Kingdom,Switzerland,Robotics,2022,60,True
+United Kingdom,Switzerland,Robotics,2023,47,True
+United Kingdom,Switzerland,Robotics,2020,28,True
+United States,Switzerland,Robotics,2017,59,True
+United States,Switzerland,Robotics,2018,81,True
+United States,Switzerland,Robotics,2021,80,True
+United States,Switzerland,Robotics,2020,63,True
+United States,Switzerland,Robotics,2015,39,True
+United States,Switzerland,Robotics,2024,93,False
+United States,Switzerland,Robotics,2016,49,True
+United States,Switzerland,Robotics,2025,51,False
+United States,Switzerland,Robotics,2023,80,True
+United States,Switzerland,Robotics,2019,74,True
+United States,Switzerland,Robotics,2022,86,True
+China,Taiwan,Robotics,2018,33,True
+China,Taiwan,Robotics,2021,51,True
+China,Taiwan,Robotics,2022,43,True
+China,Taiwan,Robotics,2019,46,True
+China,Taiwan,Robotics,2024,48,False
+China,Taiwan,Robotics,2023,47,True
+China,Taiwan,Robotics,2020,42,True
+United States,Taiwan,Robotics,2023,30,True
+United States,Taiwan,Robotics,2021,27,True
+United States,Taiwan,Robotics,2024,39,False
+United States,Taiwan,Robotics,2020,29,True
+United States,Taiwan,Robotics,2022,33,True
+United States,Taiwan,Robotics,2019,34,True
+Germany,Turkey,Robotics,2022,31,True
+Italy,Turkey,Robotics,2022,25,True
+United Kingdom,Turkey,Robotics,2023,41,True
+United Kingdom,Turkey,Robotics,2022,30,True
+United States,Turkey,Robotics,2025,28,False
+United States,Turkey,Robotics,2023,38,True
+United States,Turkey,Robotics,2020,37,True
+United States,Turkey,Robotics,2022,33,True
+United States,Turkey,Robotics,2015,34,True
+United States,Turkey,Robotics,2024,46,False
+United States,Turkey,Robotics,2016,27,True
+United States,Turkey,Robotics,2021,37,True
+United States,Turkey,Robotics,2019,46,True
+Canada,United Arab Emirates,Robotics,2023,25,True
+Saudi Arabia,United Arab Emirates,Robotics,2023,26,True
+United States,United Arab Emirates,Robotics,2024,37,False
+United States,United Arab Emirates,Robotics,2022,31,True
+United States,United Arab Emirates,Robotics,2023,50,True
+Australia,United Kingdom,Robotics,2016,33,True
+Australia,United Kingdom,Robotics,2024,54,False
+Australia,United Kingdom,Robotics,2019,46,True
+Australia,United Kingdom,Robotics,2023,64,True
+Australia,United Kingdom,Robotics,2025,30,False
+Australia,United Kingdom,Robotics,2022,73,True
+Australia,United Kingdom,Robotics,2020,63,True
+Australia,United Kingdom,Robotics,2021,58,True
+Australia,United Kingdom,Robotics,2018,36,True
+Austria,United Kingdom,Robotics,2022,25,True
+Belgium,United Kingdom,Robotics,2019,43,True
+Belgium,United Kingdom,Robotics,2021,44,True
+Belgium,United Kingdom,Robotics,2018,41,True
+Belgium,United Kingdom,Robotics,2022,46,True
+Belgium,United Kingdom,Robotics,2024,27,False
+Belgium,United Kingdom,Robotics,2023,30,True
+Belgium,United Kingdom,Robotics,2020,37,True
+Canada,United Kingdom,Robotics,2023,47,True
+Canada,United Kingdom,Robotics,2021,37,True
+Canada,United Kingdom,Robotics,2024,48,False
+Canada,United Kingdom,Robotics,2022,47,True
+Canada,United Kingdom,Robotics,2018,36,True
+Canada,United Kingdom,Robotics,2016,28,True
+Canada,United Kingdom,Robotics,2020,58,True
+Canada,United Kingdom,Robotics,2019,37,True
+Canada,United Kingdom,Robotics,2017,38,True
+China,United Kingdom,Robotics,2023,473,True
+China,United Kingdom,Robotics,2016,117,True
+China,United Kingdom,Robotics,2017,183,True
+China,United Kingdom,Robotics,2025,296,False
+China,United Kingdom,Robotics,2021,361,True
+China,United Kingdom,Robotics,2019,313,True
+China,United Kingdom,Robotics,2015,118,True
+China,United Kingdom,Robotics,2018,204,True
+China,United Kingdom,Robotics,2022,379,True
+China,United Kingdom,Robotics,2020,370,True
+China,United Kingdom,Robotics,2024,524,False
+France,United Kingdom,Robotics,2019,80,True
+France,United Kingdom,Robotics,2021,68,True
+France,United Kingdom,Robotics,2015,40,True
+France,United Kingdom,Robotics,2024,71,False
+France,United Kingdom,Robotics,2020,67,True
+France,United Kingdom,Robotics,2016,44,True
+France,United Kingdom,Robotics,2017,52,True
+France,United Kingdom,Robotics,2022,71,True
+France,United Kingdom,Robotics,2023,56,True
+France,United Kingdom,Robotics,2018,54,True
+France,United Kingdom,Robotics,2025,32,False
+Germany,United Kingdom,Robotics,2024,134,False
+Germany,United Kingdom,Robotics,2017,79,True
+Germany,United Kingdom,Robotics,2016,67,True
+Germany,United Kingdom,Robotics,2023,133,True
+Germany,United Kingdom,Robotics,2025,66,False
+Germany,United Kingdom,Robotics,2015,72,True
+Germany,United Kingdom,Robotics,2021,110,True
+Germany,United Kingdom,Robotics,2022,144,True
+Germany,United Kingdom,Robotics,2019,93,True
+Germany,United Kingdom,Robotics,2018,82,True
+Germany,United Kingdom,Robotics,2020,93,True
+Greece,United Kingdom,Robotics,2024,27,False
+Greece,United Kingdom,Robotics,2023,30,True
+Greece,United Kingdom,Robotics,2022,26,True
+Greece,United Kingdom,Robotics,2018,30,True
+India,United Kingdom,Robotics,2023,44,True
+India,United Kingdom,Robotics,2021,37,True
+India,United Kingdom,Robotics,2025,41,False
+India,United Kingdom,Robotics,2020,33,True
+India,United Kingdom,Robotics,2022,36,True
+India,United Kingdom,Robotics,2024,58,False
+Ireland,United Kingdom,Robotics,2024,30,False
+Ireland,United Kingdom,Robotics,2023,27,True
+Italy,United Kingdom,Robotics,2019,122,True
+Italy,United Kingdom,Robotics,2016,102,True
+Italy,United Kingdom,Robotics,2025,76,False
+Italy,United Kingdom,Robotics,2024,148,False
+Italy,United Kingdom,Robotics,2021,139,True
+Italy,United Kingdom,Robotics,2023,146,True
+Italy,United Kingdom,Robotics,2022,142,True
+Italy,United Kingdom,Robotics,2020,135,True
+Italy,United Kingdom,Robotics,2018,141,True
+Italy,United Kingdom,Robotics,2017,115,True
+Italy,United Kingdom,Robotics,2015,72,True
+Japan,United Kingdom,Robotics,2017,34,True
+Japan,United Kingdom,Robotics,2019,43,True
+Japan,United Kingdom,Robotics,2022,42,True
+Japan,United Kingdom,Robotics,2021,41,True
+Japan,United Kingdom,Robotics,2025,32,False
+Japan,United Kingdom,Robotics,2016,30,True
+Japan,United Kingdom,Robotics,2018,43,True
+Japan,United Kingdom,Robotics,2020,42,True
+Japan,United Kingdom,Robotics,2015,38,True
+Japan,United Kingdom,Robotics,2023,44,True
+Japan,United Kingdom,Robotics,2024,63,False
+Netherlands,United Kingdom,Robotics,2020,55,True
+Netherlands,United Kingdom,Robotics,2024,68,False
+Netherlands,United Kingdom,Robotics,2015,29,True
+Netherlands,United Kingdom,Robotics,2025,27,False
+Netherlands,United Kingdom,Robotics,2023,53,True
+Netherlands,United Kingdom,Robotics,2019,52,True
+Netherlands,United Kingdom,Robotics,2017,27,True
+Netherlands,United Kingdom,Robotics,2018,38,True
+Netherlands,United Kingdom,Robotics,2022,56,True
+Netherlands,United Kingdom,Robotics,2021,59,True
+Portugal,United Kingdom,Robotics,2018,31,True
+Portugal,United Kingdom,Robotics,2019,35,True
+Portugal,United Kingdom,Robotics,2017,32,True
+Singapore,United Kingdom,Robotics,2021,34,True
+Singapore,United Kingdom,Robotics,2023,33,True
+Singapore,United Kingdom,Robotics,2020,37,True
+Singapore,United Kingdom,Robotics,2024,29,False
+South Korea,United Kingdom,Robotics,2024,28,False
+South Korea,United Kingdom,Robotics,2021,32,True
+South Korea,United Kingdom,Robotics,2022,27,True
+Spain,United Kingdom,Robotics,2021,55,True
+Spain,United Kingdom,Robotics,2019,51,True
+Spain,United Kingdom,Robotics,2020,64,True
+Spain,United Kingdom,Robotics,2016,38,True
+Spain,United Kingdom,Robotics,2018,50,True
+Spain,United Kingdom,Robotics,2025,28,False
+Spain,United Kingdom,Robotics,2022,75,True
+Spain,United Kingdom,Robotics,2023,63,True
+Spain,United Kingdom,Robotics,2017,33,True
+Spain,United Kingdom,Robotics,2024,58,False
+Spain,United Kingdom,Robotics,2015,42,True
+Sweden,United Kingdom,Robotics,2024,39,False
+Sweden,United Kingdom,Robotics,2023,35,True
+Sweden,United Kingdom,Robotics,2019,38,True
+Sweden,United Kingdom,Robotics,2022,37,True
+Sweden,United Kingdom,Robotics,2017,34,True
+Sweden,United Kingdom,Robotics,2018,25,True
+Sweden,United Kingdom,Robotics,2020,39,True
+Sweden,United Kingdom,Robotics,2021,37,True
+Switzerland,United Kingdom,Robotics,2023,47,True
+Switzerland,United Kingdom,Robotics,2025,37,False
+Switzerland,United Kingdom,Robotics,2018,36,True
+Switzerland,United Kingdom,Robotics,2021,39,True
+Switzerland,United Kingdom,Robotics,2020,28,True
+Switzerland,United Kingdom,Robotics,2016,27,True
+Switzerland,United Kingdom,Robotics,2019,30,True
+Switzerland,United Kingdom,Robotics,2024,44,False
+Switzerland,United Kingdom,Robotics,2022,60,True
+Turkey,United Kingdom,Robotics,2023,41,True
+Turkey,United Kingdom,Robotics,2022,30,True
+United States,United Kingdom,Robotics,2015,88,True
+United States,United Kingdom,Robotics,2024,220,False
+United States,United Kingdom,Robotics,2021,196,True
+United States,United Kingdom,Robotics,2016,103,True
+United States,United Kingdom,Robotics,2023,217,True
+United States,United Kingdom,Robotics,2019,159,True
+United States,United Kingdom,Robotics,2025,104,False
+United States,United Kingdom,Robotics,2020,213,True
+United States,United Kingdom,Robotics,2017,120,True
+United States,United Kingdom,Robotics,2022,188,True
+United States,United Kingdom,Robotics,2018,170,True
+Australia,United States,Robotics,2016,78,True
+Australia,United States,Robotics,2025,46,False
+Australia,United States,Robotics,2017,63,True
+Australia,United States,Robotics,2024,89,False
+Australia,United States,Robotics,2022,81,True
+Australia,United States,Robotics,2018,86,True
+Australia,United States,Robotics,2021,88,True
+Australia,United States,Robotics,2015,35,True
+Australia,United States,Robotics,2023,110,True
+Australia,United States,Robotics,2020,69,True
+Australia,United States,Robotics,2019,71,True
+Austria,United States,Robotics,2022,28,True
+Austria,United States,Robotics,2024,30,False
+Austria,United States,Robotics,2023,34,True
+Belgium,United States,Robotics,2023,40,True
+Belgium,United States,Robotics,2022,46,True
+Belgium,United States,Robotics,2020,40,True
+Belgium,United States,Robotics,2025,25,False
+Belgium,United States,Robotics,2018,46,True
+Belgium,United States,Robotics,2024,31,False
+Belgium,United States,Robotics,2019,29,True
+Belgium,United States,Robotics,2021,42,True
+Brazil,United States,Robotics,2016,36,True
+Brazil,United States,Robotics,2022,37,True
+Brazil,United States,Robotics,2019,36,True
+Brazil,United States,Robotics,2020,48,True
+Brazil,United States,Robotics,2023,31,True
+Brazil,United States,Robotics,2017,28,True
+Brazil,United States,Robotics,2018,32,True
+Brazil,United States,Robotics,2021,43,True
+Brazil,United States,Robotics,2024,32,False
+Canada,United States,Robotics,2021,192,True
+Canada,United States,Robotics,2015,87,True
+Canada,United States,Robotics,2024,147,False
+Canada,United States,Robotics,2017,99,True
+Canada,United States,Robotics,2016,86,True
+Canada,United States,Robotics,2022,159,True
+Canada,United States,Robotics,2019,128,True
+Canada,United States,Robotics,2020,157,True
+Canada,United States,Robotics,2018,127,True
+Canada,United States,Robotics,2025,110,False
+Canada,United States,Robotics,2023,188,True
+China,United States,Robotics,2015,212,True
+China,United States,Robotics,2017,289,True
+China,United States,Robotics,2025,296,False
+China,United States,Robotics,2023,545,True
+China,United States,Robotics,2021,521,True
+China,United States,Robotics,2019,493,True
+China,United States,Robotics,2016,245,True
+China,United States,Robotics,2020,536,True
+China,United States,Robotics,2024,605,False
+China,United States,Robotics,2022,556,True
+China,United States,Robotics,2018,407,True
+Denmark,United States,Robotics,2022,29,True
+France,United States,Robotics,2023,71,True
+France,United States,Robotics,2019,77,True
+France,United States,Robotics,2021,91,True
+France,United States,Robotics,2022,83,True
+France,United States,Robotics,2017,70,True
+France,United States,Robotics,2015,61,True
+France,United States,Robotics,2018,93,True
+France,United States,Robotics,2016,64,True
+France,United States,Robotics,2025,54,False
+France,United States,Robotics,2024,93,False
+France,United States,Robotics,2020,96,True
+Germany,United States,Robotics,2016,150,True
+Germany,United States,Robotics,2023,166,True
+Germany,United States,Robotics,2019,168,True
+Germany,United States,Robotics,2025,96,False
+Germany,United States,Robotics,2018,161,True
+Germany,United States,Robotics,2022,186,True
+Germany,United States,Robotics,2017,145,True
+Germany,United States,Robotics,2015,123,True
+Germany,United States,Robotics,2024,190,False
+Germany,United States,Robotics,2021,191,True
+Germany,United States,Robotics,2020,199,True
+Greece,United States,Robotics,2021,25,True
+Greece,United States,Robotics,2015,25,True
+India,United States,Robotics,2016,44,True
+India,United States,Robotics,2022,98,True
+India,United States,Robotics,2024,146,False
+India,United States,Robotics,2021,67,True
+India,United States,Robotics,2019,59,True
+India,United States,Robotics,2018,60,True
+India,United States,Robotics,2023,118,True
+India,United States,Robotics,2025,99,False
+India,United States,Robotics,2015,32,True
+India,United States,Robotics,2020,77,True
+India,United States,Robotics,2017,61,True
+Iran,United States,Robotics,2019,27,True
+Iran,United States,Robotics,2023,30,True
+Iran,United States,Robotics,2020,33,True
+Israel,United States,Robotics,2022,32,True
+Israel,United States,Robotics,2020,47,True
+Israel,United States,Robotics,2016,32,True
+Israel,United States,Robotics,2019,48,True
+Israel,United States,Robotics,2017,35,True
+Israel,United States,Robotics,2021,60,True
+Israel,United States,Robotics,2023,47,True
+Israel,United States,Robotics,2024,35,False
+Israel,United States,Robotics,2015,30,True
+Italy,United States,Robotics,2025,123,False
+Italy,United States,Robotics,2015,90,True
+Italy,United States,Robotics,2023,159,True
+Italy,United States,Robotics,2016,141,True
+Italy,United States,Robotics,2019,140,True
+Italy,United States,Robotics,2021,157,True
+Italy,United States,Robotics,2020,181,True
+Italy,United States,Robotics,2024,188,False
+Italy,United States,Robotics,2018,146,True
+Italy,United States,Robotics,2022,135,True
+Italy,United States,Robotics,2017,137,True
+Japan,United States,Robotics,2024,117,False
+Japan,United States,Robotics,2022,118,True
+Japan,United States,Robotics,2021,132,True
+Japan,United States,Robotics,2018,117,True
+Japan,United States,Robotics,2015,81,True
+Japan,United States,Robotics,2025,64,False
+Japan,United States,Robotics,2020,138,True
+Japan,United States,Robotics,2017,91,True
+Japan,United States,Robotics,2023,121,True
+Japan,United States,Robotics,2019,112,True
+Japan,United States,Robotics,2016,111,True
+Mexico,United States,Robotics,2022,27,True
+Mexico,United States,Robotics,2024,31,False
+Mexico,United States,Robotics,2023,25,True
+Netherlands,United States,Robotics,2018,53,True
+Netherlands,United States,Robotics,2021,68,True
+Netherlands,United States,Robotics,2025,43,False
+Netherlands,United States,Robotics,2022,68,True
+Netherlands,United States,Robotics,2024,74,False
+Netherlands,United States,Robotics,2017,45,True
+Netherlands,United States,Robotics,2019,63,True
+Netherlands,United States,Robotics,2016,55,True
+Netherlands,United States,Robotics,2020,51,True
+Netherlands,United States,Robotics,2015,35,True
+Netherlands,United States,Robotics,2023,67,True
+Saudi Arabia,United States,Robotics,2024,31,False
+Saudi Arabia,United States,Robotics,2020,29,True
+Saudi Arabia,United States,Robotics,2021,29,True
+Saudi Arabia,United States,Robotics,2023,29,True
+Saudi Arabia,United States,Robotics,2022,28,True
+Singapore,United States,Robotics,2025,30,False
+Singapore,United States,Robotics,2015,32,True
+Singapore,United States,Robotics,2019,68,True
+Singapore,United States,Robotics,2022,47,True
+Singapore,United States,Robotics,2020,59,True
+Singapore,United States,Robotics,2017,58,True
+Singapore,United States,Robotics,2021,49,True
+Singapore,United States,Robotics,2016,52,True
+Singapore,United States,Robotics,2024,69,False
+Singapore,United States,Robotics,2023,65,True
+Singapore,United States,Robotics,2018,65,True
+South Korea,United States,Robotics,2017,100,True
+South Korea,United States,Robotics,2025,96,False
+South Korea,United States,Robotics,2023,154,True
+South Korea,United States,Robotics,2022,149,True
+South Korea,United States,Robotics,2018,90,True

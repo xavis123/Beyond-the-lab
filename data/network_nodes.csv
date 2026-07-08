@@ -1,0 +1,13 @@
+id,geo,country_name,hub_2018,hub_2020,hub_2022,degree_2018,degree_2020,degree_2022,adoption_2022,longitude,latitude,overlap_q3
+AT,AT,Austria,64,36,80,2,1,1,5.39,14.55,47.52,True
+BE,BE,Belgium,69,119,224,2,4,5,10.18,4.47,50.5,True
+DE,DE,Germany,352,400,588,7,7,9,5.24,10.45,51.17,True
+DK,DK,Denmark,0,0,27,0,0,1,11.56,9.5,56.26,True
+ES,ES,Spain,152,169,365,4,4,7,8.57,-3.75,40.46,True
+FR,FR,France,160,219,297,3,5,5,7.3,2.21,46.23,True
+IT,IT,Italy,388,391,494,8,6,7,8.66,12.57,41.87,True
+NL,NL,Netherlands,104,262,302,2,6,5,6.18,5.29,52.13,True
+PT,PT,Portugal,25,0,28,1,0,1,7.6,-8.22,39.4,True
+RO,RO,Romania,43,0,0,1,0,0,2.54,24.97,45.94,True
+SE,SE,Sweden,63,108,103,2,3,3,6.76,18.64,60.13,True
+TR,TR,Turkey,0,0,56,0,0,2,5.19,35.24,38.96,True
