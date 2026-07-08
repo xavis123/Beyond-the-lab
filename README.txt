@@ -2,9 +2,7 @@
 
 An interactive scrollytelling visualisation exploring enterprise robot adoption across Europe between 2018 and 2022, and whether it lines up with how central a country is in cross-border robotics research.
 
-**[Live demo](#)** — replace this link once deployed
-
-![screenshot](docs/screenshot.png)
+**https://xavis123.github.io/Beyond-the-lab/**
 
 ## The questions
 
