@@ -1,136 +1,71 @@
-========================================================================
-  Beyond the Lab: Enterprise Robot Adoption and Research Collaboration
-  in Europe (2018-2022)
+# Beyond the Lab
 
-  FIT5147 Data Visualisation Project - Part 2
-  Author: Thanh Nghi Le (36410543)
-  Semester 1, 2026
-========================================================================
+An interactive scrollytelling visualisation exploring enterprise robot adoption across Europe between 2018 and 2022, and whether it lines up with how central a country is in cross-border robotics research.
 
-DESCRIPTION
------------
-An interactive narrative visualisation exploring enterprise robot
-adoption patterns across Europe between 2018 and 2022, built using
-D3.js v7. The visualisation investigates three research questions:
+**[Live demo](#)** — replace this link once deployed
 
-  1. How has enterprise robot use changed over time across countries?
-  2. What patterns of enterprise robot use can be observed across
-     enterprise sizes and sectors over time?
-  3. Which European countries act as hubs in cross-border robotics
-     research, and how does hub status relate to their enterprise
-     robot adoption?
+![screenshot](docs/screenshot.png)
 
-The design follows a martini glass narrative structure (Segel and Heer,
-2010): a guided scrollytelling story followed by an open explore mode.
+## The questions
 
+1. How has enterprise robot use changed over time across countries?
+2. What patterns of enterprise robot use show up across enterprise sizes and sectors?
+3. Which countries act as hubs in cross-border robotics research, and does hub status line up with enterprise adoption?
 
-HOW TO RUN
-----------
-This visualisation MUST be served over a local HTTP server. Browsers
-block a page opened directly from disk (a file:// address) from reading
-the CSV and JSON data files, so opening index.html by double-clicking
-it will show an error screen. Serving the folder over http:// fixes it.
+The short answer to Q3: not really. Germany, Italy, France and Spain anchor the research network, but the countries that actually adopt the most robots are often somewhere else. Denmark leads adoption at 11.6% while barely registering as a research hub. The rank correlation between hub strength and adoption is weak and not statistically significant (Spearman's rho = 0.140, p = 0.665, n = 12).
 
-Option 1: Python (recommended)
-  1. Open a terminal or command prompt.
-  2. Change into the DVP_app folder:
-       cd path/to/DVP_app
-  3. Start a local server:
-       python3 -m http.server 8000
-     (on Windows you may need: python -m http.server 8000)
-  4. Open a browser at:
-       http://localhost:8000
+## What's in the story
 
-Option 2: VS Code Live Server
-  1. Open the DVP_app folder in VS Code.
-  2. Install the "Live Server" extension if needed.
-  3. Right-click index.html and choose "Open with Live Server".
+The piece scrolls through eight beats: an opening hook with three headline numbers, a diverging bar chart of adoption change, a dumbbell chart comparing industrial vs service robots, a grouped bar chart by enterprise size, a sector heatmap, a geographic network of research collaboration, an animated bar-chart race comparing hub strength against adoption across 2018/2020/2022, and an open Explore panel where you can filter the network and switch what the map shows.
 
-Option 3: Node.js
-  1. Install once: npm install -g http-server
-  2. From the DVP_app folder, run: http-server -p 8000
-  3. Open http://localhost:8000
+## Running it locally
 
-Do NOT open index.html via the file:// protocol. The app detects a
-failed data load and shows on-screen instructions if this happens.
+The app loads data with `fetch`, so it needs to be served over HTTP. Opening `index.html` directly (`file://`) won't work, the browser blocks the data requests.
 
+```bash
+cd DVP_app
+python3 -m http.server 8000
+```
 
-BROWSER COMPATIBILITY
----------------------
-Tested on modern browsers supporting ES6+ and SVG:
-  - Google Chrome 90+
-  - Mozilla Firefox 88+
-  - Microsoft Edge 90+
-  - Safari 14+
+Then open `http://localhost:8000`. VS Code's Live Server extension works the same way.
 
+## Stack
 
-FILE STRUCTURE
---------------
+Plain HTML, CSS and JavaScript, D3.js v7 for every visual. No framework, no build step, no server-side code. D3 is vendored locally in `lib/`, so the whole thing runs offline once you have the files.
+
+```
 DVP_app/
-  index.html              Main HTML page
-  README.txt              This file
-  css/
-    style.css             Stylesheet
-  data/
-    countries-geo.json    Europe country boundaries (baked GeoJSON)
-    countries_summary.csv Country-level summary (adoption, types, hub)
-    adoption_change.csv   Paired 2018 to 2022 adoption change
-    robot_type_2022.csv   Industrial vs service robots, 2022
-    size_profile.csv      Adoption by enterprise size class
-    sector_country_year.csv  Adoption by NACE sector, per country and year
-    network_nodes.csv     Research network nodes (overlap subset)
-    network_links.csv     Research network edges
-    sector_2022.csv       Supplementary sector slice (not loaded at run time)
-    sector_heatmap.csv    Supplementary heatmap slice (not loaded at run time)
-  js/
-    utils.js              State, dispatch, colours, helpers
-    map.js                Europe choropleth map and geographic network
-    charts.js             All chart types (diverging bars, dumbbell,
-                          grouped bars, sector heatmap, hub-vs-adoption)
-    network.js            Network helpers
-    scrolly.js            IntersectionObserver scroll triggers
-    explore.js            Explore mode control handlers
-    app.js                Data loading, init, dispatch wiring
-  lib/
-    d3.v7.min.js          D3.js version 7 (local copy)
+├── index.html
+├── css/style.css
+├── js/
+│   ├── app.js        data loading, init, cross-view dispatch
+│   ├── charts.js      all the bar/dumbbell/heatmap/bar-race charts
+│   ├── map.js         choropleth + geographic network
+│   ├── network.js     network helpers
+│   ├── scrolly.js     scroll-driven step triggers
+│   └── explore.js     Explore panel controls
+├── data/               pre-wrangled CSVs and GeoJSON
+├── lib/d3.v7.min.js
+└── script_export_data/ Python script that built the data/ files from raw sources
+```
 
+Data wrangling happens entirely offline in `script_export_data/export_data.py`. The app itself only ever reads the tidy CSVs in `data/`, nothing is cleaned or reshaped in the browser.
 
-DATA SOURCES
-------------
-1. Eurostat ICT Usage in Enterprises Survey
-   - Table isoc_eb_p3d: enterprise robot adoption by size class
-   - Table isoc_eb_p3dn2: enterprise robot adoption by NACE sector
-   - Indicators E_RBT (all robots), E_RBTI (industrial), E_RBTS (service)
-   - Unit PC_ENT (percentage of enterprises with 10 or more employees)
-   - Years 2018, 2020, 2022
-   - URL: https://ec.europa.eu/eurostat
+## Data sources
 
-2. Emerging Technology Observatory (ETO)
-   - Cross-border robotics research collaboration articles
-   - Filtered: field=Robotics, complete=True, years 2018-2022
-   - Mirrored country pairs collapsed, max articles kept per pair-year
-   - URL: https://eto.tech
+- [Eurostat, ICT usage in enterprises](https://ec.europa.eu/eurostat) — robot adoption by country, enterprise size and sector (tables `isoc_eb_p3d`, `isoc_eb_p3dn2`), 2018/2020/2022
+- [Emerging Technology Observatory](https://eto.tech) — cross-border robotics research collaboration, filtered to completed articles in the Robotics field
+- [Natural Earth](https://www.naturalearthdata.com) — country boundaries, baked into `data/countries-geo.json` ahead of time so there's no runtime dependency on topojson-client
 
-3. Map boundaries
-   - Natural Earth administrative boundaries, converted to GeoJSON
-     and baked into countries-geo.json (no run-time dependency)
-   - URL: https://www.naturalearthdata.com
+## Notes
 
+- France's 2022 figure carries a Eurostat break-in-series flag and is kept, with the caveat noted in the story.
+- The Q3 network subset is the 12 countries that appear in both datasets and connect to at least one other country in that subset: AT, BE, DE, DK, ES, FR, IT, NL, PT, RO, SE, TR.
 
-LIBRARIES
----------
-- D3.js v7 (BSD 3-Clause License)
-  https://d3js.org
+## Background
 
-D3 is the only visualisation library used and is included locally in
-the lib/ folder. No internet connection is required to run the app.
+Built for FIT5147 Data Exploration and Visualisation at Monash University, as the follow-up to a Data Exploration Project on the same dataset. The design went through the Five Design Sheet process before landing on a martini-glass structure: a guided scroll up front that opens into free exploration.
 
+## Author
 
-NOTES
------
-- France 2022 data carries Eurostat flag "b" (break in series) and is
-  retained with appropriate caution noted in the visualisation.
-- The Q3 overlap subset is the set of countries present in BOTH the
-  Eurostat and ETO datasets with valid data and at least one within-
-  subset collaboration. This resolves to 12 countries (AT, BE, DE, DK,
-  ES, FR, IT, NL, PT, RO, SE, TR). T
+Thanh Nghi Le
